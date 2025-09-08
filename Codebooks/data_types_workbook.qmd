@@ -1,0 +1,77 @@
+---
+title: "Lecture 1: Intro to R Code"
+author: "Dr. Coutts"
+format: html
+editor: visual
+---
+
+## Data types
+
+-   Numeric - Whole numbers and integers
+
+-   Integer - Whole numbers only, more efficient than numeric
+
+-   Character (aka string) - Text data
+
+-   Logical (aka Boolean) - TRUE/FALSE, usually in an evaluation of a statement
+
+-   Factor - Ordered categorical data
+
+You can check the data type if you're unsure using the is.datatype() syntax:
+
+-   is.numeric(), is.integer(), is.character(), is.factor(), and is.logical()
+
+You can also convert data to other types so long as it's appropriate using the as.datatype() syntax:
+
+-   as.numeric(), as.integer(), as.character(), as.factor(), and as.logical()
+
+```{r}
+num1 <- 1; class(num1);
+num2 <- 5.62234; class(num2)
+int <- 4L; class(int)
+char1 <- "A"; class(char1)
+char2 <- "The quick brown fox jumped over the lazy dog."; class(char2)
+boo1 <- TRUE; class(boo1)
+boo2 <- 3==3; class(boo2)
+fact <- factor(c("Assistant","Associate","Full"),levels=c("Assistant","Associate","Full"));class(year) # error? how to fix?
+```
+
+Try fixing these data types below
+
+```{r}
+# I want the below to be logical
+boohoo = "false"
+# check that it's logical
+
+# I want the below to be numeric
+intish = 4.6L
+# check that it's numeric
+
+# I wawnt the below to be an ordered factor with the levels first, second, third, last. For some reason it's in alphabetical order!
+facty = factor(c("First","Second","Third","Last"))
+# check that it's a factor
+
+# I want the below to be an integer
+numy = "8"
+# check that it's an integer
+
+
+# I want the below to be character
+chard = chard
+#check that it's character
+
+```
+
+## Practice exercises
+
+Create a different chunk for each of these practice exercises (for practice).
+
+1.  Create an object called "four" with the value 3 and an object "three" with the value 4 and check whether three \> four and three == 4.
+2.  Check whether your two favorite Ryans in Hollywood are equal (e.g., "Ryan Reynolds" == "Ryan Gosling"). What about their first names?
+3.  Create a variable called X and assign it a value of 10. Then, on the same line, check if the square root of X is greater than the log of X.
+4.  Create a variable called Y and assign it to a value of 709. ON the next line, create a variable called Z and assign it a value of 308. Check whether the exponential of Y is greater than or equal to 10 to the power of Z.
+5.  Copy the code from the problem above and increase Y and Z by 1. What changed (besides the numbers being 710 and 309)?
+6.  Print both Y and Z. What are they equal to?
+7.  Create a formula that calculates your grade in a class based on three categories: Exams as 50% of your grade, Homework as 25%, and Attendance as 25%. Create three variables called exam_avg, hw_avg, and attend, and assign them values of your choice. Make sure the grades make sense!
+
+**That's all for now. Thank you for a great first class! :)**
