@@ -1,0 +1,44 @@
+---
+title: "Lab 1: BUGS_BUGS_BUGS"
+author: "HELP!"
+format: html
+editor: visual
+---
+
+## War on bugs
+
+From: confused_professor
+
+To: programming_expert
+
+Please help me with the below code. I need to submit this paper ASAP but I'm just starting to learn R and don't know exactly what to do. I appreciate it.
+
+Best,\
+CP
+
+```{r}
+bool = true
+priNt(bool)
+bool = booI + 1
+```
+
+```{r}
+bool*45LL
+CLASS(BOOL)
+trueish = Log(45) truish== log(45)
+```
+
+```{r}
+Nums1 = seq(trueish:5).
+
+Nums2<-SEQ(5:truefish)
+```
+
+```{r}
+plt <-- plot(X;y); 
+
+print the plot below this is a comment
+print('The plot above is a scatterplot")
+```
+
+Do not delete any of the lines above, just fix them so the document runs. Knit and submit on ELMS!

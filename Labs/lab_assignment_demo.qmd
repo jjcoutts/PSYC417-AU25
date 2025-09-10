@@ -1,0 +1,21 @@
+---
+title: "Lab Assignment Demo"
+format: html
+editor: visual
+---
+
+## Question 1
+
+Copy and paste the question prompts and the subquestions (if applicable). Insert a code chunk below if necessary.
+
+```{r}
+
+```
+
+Here you can write your answer. If it's long, you can use bullet points:
+
+\* like this (hit enter after)
+
+## Question 2
+
+Rinse and repeat...
