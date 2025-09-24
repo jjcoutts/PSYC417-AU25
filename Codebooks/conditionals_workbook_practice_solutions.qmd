@@ -1,0 +1,129 @@
+---
+title: "Lecture 3: Conditionals Workbook (Exercise Solutions)"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## Exercises
+
+1)  Create the following variables:
+
+```{r}
+g <- 9.8
+x <- 12
+y <- 4
+bestCodingLanguages <- c("Python", "Matlab", "C++", "javaScript")
+```
+
+2)  Write an if statement to print "g is greater than 10" if g is greater than 10.
+
+```{r}
+if(g > 10){
+  print("g is greater than 10")
+}
+# does not print anything because g is less than 10
+```
+
+3)  Write an if statement to print "x is divisible by y" if x is divisible by y. (Hint: The remainder of the division should be 0 - remember the %% operator.)
+
+```{r}
+if(x %% y == 0) {
+  print("x is divisible by y")
+}
+```
+
+4)  Write an if statement so that if "R" is in bestCodingLanguages, it prints "That's right!", and if not, it prints "It should be!".
+
+```{r}
+if("R" %in% bestCodingLanguages){
+  print("That's Right!")
+} else if (all(bestCodingLanguages != "R")){
+  print("It should be.")
+}
+
+# can also just do else
+if("R" %in% bestCodingLanguages){
+  print("That's Right!")
+} else{
+  print("It should be.")
+}
+
+# can also use any 
+if(any(bestCodingLanguages == "R")){
+  print("That's Right!")
+} else{
+  print("It should be.")
+}
+
+# let's fix this
+# to add an element, we can take the total number of elements + 1 so we don't overwrite anything
+bestCodingLanguages[length(bestCodingLanguages)+1] <- "R"
+
+# now let's check it 
+if("R" %in% bestCodingLanguages){
+  print("That's Right!")
+} else if (all(bestCodingLanguages != "R")){
+  print("It should be.")
+}
+
+# can also just do else
+if("R" %in% bestCodingLanguages){
+  print("That's Right!")
+} else{
+  print("It should be.")
+}
+
+# can also use any 
+if(any(bestCodingLanguages == "R")){
+  print("That's Right!")
+} else{
+  print("It should be.")
+}
+
+# NOTE: If you rerun the above code, it will say "That's right" for all of them because you have added that element. You need to reassign the objects in the initial code chunk to see "It should be."
+```
+
+5)  Re-write the code from 4) using the ifelse() function
+
+```{r}
+# reassign object so we can test
+bestCodingLanguages <- c("Python", "Matlab", "C++", "javaScript")
+
+ifelse(all(bestCodingLanguages != "R"), "It should be","That's Right") # prints "it should be" if all of the languages aren't R
+ifelse(any(bestCodingLanguages == "R"), "That's Right","It should be") # prints "THat's right" if any of the languages are R
+ifelse("R" %in% bestCodingLanguages, "That's Right","It should be") # prints "THat's right" if R is in best languages
+
+# let's fix this
+bestCodingLanguages[5] <- "R"
+ifelse(all(bestCodingLanguages != "R"), "It should be","That's Right") # prints "it should be" if all of the languages aren't R
+ifelse(any(bestCodingLanguages == "R"), "That's Right","It should be") # prints "THat's right" if any of the languages are R
+ifelse("R" %in% bestCodingLanguages, "That's Right","It should be") # prints "THat's right" if R is in best languages
+```
+
+6)  Let's implement the traffic light example. Create the following dataframe showing the light color and distance (in feet) between the car and the light.
+
+```{r}
+df <- data.frame(color = c("green","green","yellow","yellow","red","red"),
+                 distance = c(50,200,50,200,50,200))
+df
+```
+
+Let's assume that the "distance of no return" (i.e. where the car has enough time to stop) is 125 feet. Add a column called "action" that says whether the car should "drive" or "stop" depending on the light color and distance.
+
+a)  Do this using data frame indexing
+
+```{r}
+df[df$color == "green" | (df$color == "yellow" & df$distance <= 125), "action"] <- "drive" # this satisfies both drive conditions. Now let's do stop conditions
+df[df$color == "red" | (df$color == "yellow" & df$distance > 125), "action"] <- "stop"
+df
+# this method is super ugly and clunky
+```
+
+b)  Do this using ifelse()
+
+```{r}
+df$action2 <- ifelse((df$color == "green" | (df$color == "yellow" & df$distance <= 125)), "drive","stop") # this is way easier 
+```
+
+That's it! Great job! :)
