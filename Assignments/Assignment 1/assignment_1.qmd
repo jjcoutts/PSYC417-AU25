@@ -1,0 +1,48 @@
+---
+title: "Assignment 1 Instructions"
+author: "PSYC417"
+format: pdf
+editor: visual
+---
+
+This assignment is going to test your skills in data types, data structures, conditionals, and loops. You may get to the answer **using any of the techniques we specify in class, [unless the question requests otherwise.]{.underline} If so, you must use that technique.** Do not use techniques or code we didn't learn in class (e.g., from a package we haven't used or a function we haven't covered). This will result in a deduction.
+
+Write each question/number into the Quarto document as text and place any code or text to answer the question on the lines below it. In short, it should look something like below:
+
+**Question 1 - Text from question 1. (MAKE THIS ONE OF THE HEADER STYLES SO IT'S EASIER TO READ.)**
+
+Code chunk, if applicable.
+
+*Text answering question, if applicable.*
+
+**Question 2 - Text from question 2. (MAKE THIS ONE OF THE HEADER STYLES SO IT'S EASIER TO READ.)**
+
+.... and so on.
+
+## Questions
+
+The data for this assignment are a sample of exam scores from an introductory psychology class. The data come from the code below (which you may copy and paste):
+
+exam_scores \<- c(75, 70.5, 82, 89, 93, 98, 77, 85.5, 90, 72, 93, 79)
+
+**5pts:** Create a Quarto document titled "Assignment 1" with you as the author. **Make sure the document type is .html. (It may be a .pdf, but only if you're familiar with LaTeX. Do not spend any time trying to get this to work otherwise, it can be tricky.)** When uploading the assignment to ELMS, ensure you upload both the .qmd and .html files or you will lose 3 pts on this question. (No fixing this after the deadline if you forget.)
+
+**20pts:** **Use commands in R to tell you the following:** How many exam scores are there total? What are the minimum and maximum scores? What is the ratio of the highest to the lowest score (rounded to two decimal places)?
+
+**DO NOT USE ANY PRE-EXISTING COMMANDS LIKE MEAN() OR SD() FROM HERE ON OUT. You will use these to check your answers, but you must hard-code everything.**
+
+**25pts:** Compute the sample mean (i.e., average) of all the numbers. Store this in a variable called "samp_avg" and print the object.
+
+**25pts:** Compute the sample variance ($s^2$) of the scores and store the result in a variable called "samp_var". Remember, the formula for variance is:
+
+$$
+s^2 = \frac{\sum (x_i-\bar{x})^2} {n-1}
+$$
+
+As a reminder, you must compute the variance by hand. You can use the $\bar{x}$ object you created in the previous question. YOU MUST USE A LOOP TO ANSWER THIS QUESTION. **You cannot calculate n by hand or use the length() command. You must figure out how to do this in the loop.** (You may want to start at counter at 1 and go from there...) Print samp_var.
+
+**25pts:** Determine the letter grade of each exam and store it in a vector called **letter_grades**. YOU MUST USE A LOOP AND CONDITIONAL STATEMENTS TO DO THIS. You do not need to use +/-, just whether the grade is an A, B, or C. Print the **letter_grades** object at the end.
+
+Render the document and upload the .qmd and .html files to ELMS.
+
+Thank you! :)
