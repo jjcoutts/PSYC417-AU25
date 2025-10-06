@@ -1,0 +1,217 @@
+---
+title: "Lecture 4: Loops Workbook"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## Loops
+
+Loops have a similar structure to conditionals. You call the command (for or while), have an acceptable "argument" in parentheses, and contain the body of body within curly braces.
+
+for(index in iteration){
+
+Body of code.
+
+}
+
+for(i in 1:5){
+
+print("HOLY MOLY")
+
+}
+
+**Examples**
+
+Print the numbers between one and ten.
+
+```{r}
+for(i in 1:10){
+  print(i)
+}
+```
+
+Indexing an existing vector with the numbers one through ten, print each element of the vector.
+
+```{r}
+numbers <- c(1:10)
+for(i in 1:length(numbers)){
+  print(numbers[i])
+}
+```
+
+## The paste command
+
+The paste command is useful for printing strings or stitching together values.
+
+Paste "Meg is five years old." using the variables below. (This does not require looping.)
+
+```{r}
+students <- c("Miles","Christian","Meg")
+age <- 5
+
+paste(students[3], "is",age,"years old.")
+```
+
+There is a space by default between pasted elements, but you can chance it to *whatever* you want using the *sep=* argument and putting a value in quotation marks.
+
+```{r}
+paste("What","in","the","world",sep = "I went to the store")
+paste("What", "in", "the", "world", sep=".")
+```
+
+If you want there to be no spaces, then you use sep="" OR the paste0 function with no *sep* argument. This is especially useful for stitching numbers together.
+
+```{r}
+as.numeric(paste(1,2,3,sep=""))
+as.numeric(paste0(1,2,3))
+```
+
+## for Loop Exercises
+
+1.) Create the following variables:
+
+```{r}
+student <- c("John", "Mary", "Alex", "Robin")
+state <- c("Maryland", "New Mexico", "Kansas", "Iowa")
+pronoun <- c("his (or he)","her (or she)","their (or they)","her (or she)")
+gpa <- c(3.8, 3.5, 3.9, 3.8)
+psychology_major <- c("no", "yes", "yes", "no")
+df <- data.frame(student, state, pronoun, gpa, psychology_major)
+df
+```
+
+2.) For each student, print the sentence "\[name\] is from \[state\] and \[pronoun\] gpa is \[gpa\]"
+
+Note: within a loop, paste() on its own will not print the output, you need print(paste(...))
+
+```{r}
+for(i in 1:nrow(df)){ # we use 1:nrow(df) because each row corresponds to a student and we want a statement for each student. 
+  print(paste(df$student[i],"is from", df$state[i],"and",df$pronoun[i],"gpa is",df$gpa[i])) # We must index the ith element since the for loop specifies i in... On the first run of the loop, i =1, so it will select the first student, first state, first pronoun, and first gpa, then the code ends so it sets i to 2, selects the second student, second state... and so on until i=4
+}
+```
+
+3.) For each student, print the sentence "\[name\] is cool and \[pronoun\] love(s) psychology." OR "\[name\] is/are NOT COOL and \[pronoun\] do/does not love psychology." depending on whether they are a psychology major or not. Remember: You have to print to view a paste command in R.
+
+```{r}
+for(i in 1:nrow(df)){
+  # We need a conditional to see whether they are a psychology major. Since there are two options, we can use an if and else statement. 
+  if(df$psychology_major[i] == "yes"){ # will only run for psych majors
+    print(paste(df$student[i],"is cool and", df$pronoun[i],"love(s) psychology.")) # grabs the name and pronoun of the ith student that is a psych major
+  } else{ # this will account for situations where they are NOT a psych major
+    print(paste(df$student[i],"is NOT cool and", df$pronoun[i],"do/does not love psychology.")) # print the student name and pronoun 
+  }
+}
+```
+
+4.) Add a column named "score" to the data frame. Score should be their gpa multiplied by two, multiplied by whether they are a psychology major (so you may need to convert this using a data type coercion...). Use a for loop.
+
+```{r}
+
+for(i in 1:nrow(df)){
+  df$score[i] <- df$gpa[i]*2*as.numeric(df$psychology_major[i]=="yes") # converts to 1 if psychology major, 0 if not since 1 is TRUE and 0 if FALSE.
+}
+```
+
+Now do that without a loop.
+
+```{r}
+df$score_noloop <- df$gpa*2*as.numeric(df$psychology_major=="yes")
+```
+
+Which one is better?
+
+The one without the loop is better. If you can perform a vectorized operation in R, it will always perform better (i.e., faster) than iterating with a loop. The time difference is negligible for small data, but it's too bad of a programming habit to develop so don't iterate/loop unless necessary.
+
+## Nested Loops
+
+You can place loops within each other and iterate through commands. Here is an example of the logic of nested loops.
+
+```{r}
+for (i in 1:5){
+   for(j in 1:5){
+	   print(paste(i, "times", j, "is", i*j))
+   }
+}
+```
+
+They can also be used with strings. For example, let's print all the combinations of color, shade and transparency from the following three vectors (e.g. "light opaque red", "dark transparent blue"). How many combinations are there in total?
+
+```{r}
+shades <- c("light", "dark")
+transparency <- c("transparent","opaque")
+colors <- c("red","green","blue")
+
+# i comment which braces belong to which loop when they're nested so I know what's happening. It can be hard sometimes if you appropriately indent things.
+for(s in 1:length(shades)){ # start shades loop
+  for(t in 1:length(transparency)){ # start transparency loop
+    for(c in 1:length(colors)){ # start colors loop
+      print(paste(shades[s],transparency[t],colors[c]))
+    } # end colors loop
+  } # end transparency loop
+} # end shades loop
+```
+
+**How can we see how many conditions there are when looping like this?**
+
+We know that in terms of combinations, it's the number of possibilities for each category multiplied together.
+
+```{r}
+paste("There are",length(shades)*length(transparency)*length(colors),"combinations in total.")
+```
+
+## While Loops
+
+Exercises
+
+```{r}
+df <- data.frame(id = c(1:20), 
+                 age = c(20,22,23,18,18,19,19,21,20,19,19,20,22,22,21,21,23,18,17,20))
+```
+
+1.) Find the first 3 people who are younger than 20 and return their ID in a vector called id_young
+
+```{r}
+count_young <- 0 # this is our counter of people younger than 20
+id_young <- c() # this is where we will store their ID
+i <- 1 # this is the counter to iterate through the rows of df
+while(count_young < 3){ # once count_young = 3, this loop will end.
+  if(df$age[i] < 20){ # we want to do things if someone is younger than 20, we don't care about anyone else
+    id_young = c(id_young, df$id[i]) # combine id_young with the current df_id that is attached to a young person
+    count_young = count_young + 1 # this will add one for each young person until we reach three.
+  }
+  i = i + 1 # we must do this because while loops do not manually adjust i for us...this will help us keep track of what row of the df we're in. DO NOT FORGET THIS OR THE CODE WILL NEVER STOP RUNNING!!!
+}
+
+# an equally valid way to do this, do whichever makes more sense to you
+while (count_young < 3) {  
+	if (df$age[i] < 20) {    
+		count_young <- count_young + 1 # sets count_young to 1 for the first young person, adds 1 thereafter
+		id_young[count_young] <- df$id[i] # indexes the count_youngth element of id_young. In other words, this will index the first element of id_young for the first young person, 2nd for the second young person, and third for the third young person. 
+	}  
+	i <- i + 1 
+}
+id_young
+
+```
+
+2.) What if you try to find the first 15 people (but there aren't actually 15 people younger than 20 in your sample)?
+
+```{r}
+count_young <- 0 #this is our counter of people younger than 20
+id_young <- c() #this is where we will store their ID
+i <- 1 #this is the counter to iterate through the rows of df
+
+# this is the same code as above but with while(count_young < 15). This will generate an error here but sometimes the code will run forever. Be careful! 
+while(count_young < 15){ # once count_young = 3, this loop will end.
+  if(df$age[i] < 20){ # we want to do things if someone is younger than 20, we don't care about anyone else
+    id_young = c(id_young, df$id[i]) # combine id_young with the current df_id that is attached to a young person
+    count_young = count_young + 1 # this will add one for each young person until we reach three.
+  }
+  i = i + 1 # we must do this because while loops do not manually adjust i for us...this will help us keep track of what row of the df we're in. DO NOT FORGET THIS OR THE CODE WILL NEVER STOP RUNNING!!!
+}
+```
+
+While loops can be more efficient, but you have to be careful because they can cripple your computing power if they run into an error. You will have to hit "esc" or the stop button in the terminal or stop in the job in another way to save your processor (or the cloud).
+
+That's it! Great job! :)
