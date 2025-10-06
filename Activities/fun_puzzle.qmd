@@ -1,0 +1,49 @@
+---
+title: "A Famous Math Problem"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## The Problem
+
+A few years ago, a YouTube video became somewhat viral because a Taiwan educator gave their young students a seemingly simple but very challenging math problem. (One that many college students even struggled to solve.) The problem is this: ABCDE \* A = EEEEEE (this is six Es, it can be easy to miss). In other words, A, B, C, D, and E are all different digits, and when combined into a single number and multiplied by A, you get EEEEEE. 0 is not an acceptable digit. There is only one solution.
+
+## Hints
+
+You can solve this with for loops or while loops. You will either need to use nested for loops or a single while loop.
+
+### for loop
+
+-   You should have a loop for each letter (i.e., A, B, C, D, and E. Code should only be in the innermost loop.
+
+### while loop
+
+-   If you are using a while loop, you will need the following code:
+
+```{r}
+vec <- c(1:9)  
+rsamp <- sample(vec,size=5)
+a <- rsamp[1]
+b <- rsamp[2]
+c <- rsamp[3]
+d <- rsamp[4]
+e <- rsamp[5]
+# This will draw a random number for each letter out of the numbers 1:9.
+```
+
+### Regardless of your approach, you will need:
+
+-   Conditional statements.
+
+-   The paste command (both for numbers, and for the output). Remember: You can use as.numeric and paste0 (or paste with the sep="" for numbers).
+
+## Final Instructions
+
+You should print the statement: "Eureka! I found the answer. ABCDE is \[number\], A is \[number\], and EEEEEE is \[number\]"
+
+Happy programming!
+
+```{r}
+
+```
