@@ -1,0 +1,97 @@
+---
+title: "A Famous Math Problem"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## The Problem
+
+A few years ago, a YouTube video became somewhat viral because a Taiwan educator gave their young students a seemingly simple but very challenging math problem. (One that many college students even struggled to solve.) The problem is this: ABCDE \* A = EEEEEE (this is six Es, it can be easy to miss). In other words, A, B, C, D, and E are all different digits, and when combined into a single number and multiplied by A, you get EEEEEE. 0 is not an acceptable digit. There is only one solution.
+
+## Hints
+
+You can solve this with for loops or while loops. You will either need to use nested for loops or a single while loop.
+
+### for loop
+
+-   You should have a loop for each letter (i.e., A, B, C, D, and E. Code should only be in the innermost loop.
+
+### while loop
+
+-   If you are using a while loop, you will need the following code:
+
+```{r}
+vec <- c(1:9)  
+rsamp <- sample(vec,size=5)
+a <- rsamp[1]
+b <- rsamp[2]
+c <- rsamp[3]
+d <- rsamp[4]
+e <- rsamp[5]
+# This will draw a random number for each letter out of the numbers 1:9.
+```
+
+### Regardless of your approach, you will need:
+
+-   Conditional statements.
+
+-   The paste command (both for numbers, and for the output). Remember: You can use as.numeric and paste0 (or paste with the sep="" for numbers).
+
+## Final Instructions
+
+You should print the statement: "Eureka! I found the answer. ABCDE is \[number\], A is \[number\], and EEEEEE is \[number\]"
+
+Using while loops
+
+```{r}
+vec <- c(1:9) # to have numbers to draw from
+yes <- 0 # to set the criteria for the loop
+counter <- 0 # to count the number of iterations
+set.seed(80000000) # to reproduce the results
+
+while(yes==0){
+  rsamp <- sample(vec,size=5) # randomly draw 5 numbers
+  # assign those 5 numbers to letters
+  a <- rsamp[1]
+  b <- rsamp[2]
+  c <- rsamp[3]
+  d <- rsamp[4]
+  e <- rsamp[5]
+  abcde <- as.numeric(paste(a,b,c,d,e,sep=""))
+  eeeeee <- as.numeric(paste(e,e,e,e,e,e,sep=""))
+  counter <- counter + 1
+  if((abcde*a)==eeeeee){ # see if equation is corrrect
+    yes<-1 # this will end the loop
+    print(paste("Eureka! I found the answer. ABCDE is ", abcde, ", A is ", a, ", and EEEEEE is ", eeeeee, ". This took ", counter," iterations to solve.", sep=""))
+  } # end if
+
+} # end loop
+```
+
+Using for loops
+
+```{r}
+counter <-  0 
+for(a in 1:9){ # start a loop
+  for(b in 1:9){ # start b loop
+    for(c in 1:9){ # start c loop
+      for(d in 1:9){ # start d loop
+        for(e in 1:9){ # start e loop
+            counter = counter + 1 # count each iteration
+            abcde <- as.numeric(paste(a,b,c,d,e, sep="")) # create first number
+            eeeeee <- as.numeric(paste(e,e,e,e,e,e,sep="")) # create second number
+            if((abcde*a)==eeeeee){ # start if
+              print(paste("Eureka! I found the answer. ABCDE is ", abcde, ", A is ", a, ", and EEEEEE is ", eeeeee, ".",sep =""))
+            } # end if for printing answer
+          #} # end if for unique numbers
+        } # end e loop
+      } # end d loop
+    } # end c loop
+  } # end b loop
+} # end a loop
+
+paste("This should take 9^5 iterations since there are 5 loops each with 9 steps. 9^5 is",9^5,"and it took",counter,"iterations.")
+```
+
+Math isn't so bad when we can use programming to do 50,000+ computations in a matter of seconds!
