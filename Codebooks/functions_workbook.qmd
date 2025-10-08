@@ -1,0 +1,252 @@
+---
+title: "Functions Workbook"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## Functions
+
+Functions have a similar structure to conditionals and loops. You initiate a function with the command *function*, specify 'arguments' that modify the function output in parentheses, and put code within curly braces. One key difference: You should name a function since functions are objects in R. You should also return an object at the end of R code.
+
+Function are great for a number of reasons. For instance:
+
+1)  We improve **readability** and minimize error. Imagine if you had to do what you did for Assignment 1 every time you wanted to calculate the mean instead of typing mean()!
+
+2)  You improve **efficiency**, because you can write functions with many additional arguments/options (preventing the need for other functions).
+
+3)  They are a **tool/product** that you can make for other people (or yourself).
+
+An example of a function is below:
+
+```{r}
+make_numeric<- function(x){
+  num_x <- as.numeric(x)
+  return(num_x)
+}
+bad_num <- c("1","2","3")
+
+good_num <- make_numeric(bad_num)
+
+bad_num; good_num
+```
+
+Let's convert our max code from last time into a function. Call the function **vmax** and give it one argument: data.
+
+```{r}
+
+  temp_max <- -Inf 
+  for (i in 1:length(data)) {
+	  if (temp_max < data[i]) {
+	    temp_max <- data[i]
+    } # end if statement
+  } # end for loop
+  
+```
+
+Now test it with a bunch of different vectors you create!
+
+```{r}
+x <- c(10,40,3,12,18)
+
+```
+
+**Availability of Variables**
+
+-   Functions run locally. That means that variables defined in functions are only available while the function is running. This is a good thing. Imagine if your object kept getting overwritten because you used a function that had an object with the same name as yours.
+
+-   For example, the variables **data** (provided by the user) and **temp_max** (created in the function) only exist while the vmax() function is running.
+
+-   These values are created from scratch each time the function is called.
+
+```{r}
+demonstrate <- function(x){
+  new_data <- x*2
+  return(x*2)
+}
+demonstrate(5);print(new_data)
+```
+
+### Exercise
+
+Create two different functions for the mean. First, turn the function from Assignment 1 into a function. Then, use the sum() and length() commands to generate a much simpler function.
+
+```{r}
+# version 1 from Assignment 1
+
+# version 2 using functions 
+
+```
+
+Test the functions with vectors of different sizes. End by testing with c(1:1000000000)!
+
+```{r}
+
+```
+
+## Multiple Arguments
+
+You can add multiple arguments that further customize the function to your or the user's needs.
+
+```{r}
+vmax2 <- function(data, n){
+   temp_max <- -Inf
+   for(i in 1:n){
+      if(temp_max < data[i]){
+         temp_max = data[i]
+      } # end if statement
+   }# end for loop
+   return(temp_max)
+} # end function
+
+# consider the following attempts at running a function
+vmax2(c(1:10)) 
+vmax2(10, c(1:10)) 
+vmax2(c(1:10), 10) 
+```
+
+### Default Arguments
+
+When you have multiple arguments, you can set a default value that will run unless the user specifies something else.
+
+```{r}
+vmax2 <- function(data, n=length(data)){
+   temp_max <- -Inf
+   for(i in 1:n){
+      if(temp_max < data[i]){
+         temp_max = data[i]
+      } # end if statement
+   }# end for loop
+   return(temp_max)
+} # end function
+
+vmax2(c(1:10)) # now works because it automatically defaults to the length of the vector
+```
+
+### Exercise
+
+Let's combine our functions from earlier:
+
+-   Make a function with three arguments: mean_choice(data, type, expression).
+
+-   Let **type** take on "iterate", "vectorized", or "baseR" that trigger the functions iterate_mean(), vectorized_mean(), and mean(), respectively.
+
+-   Let expression be "Yes" or "no" and paste an expression, "Your mean is XX", if it is set to "Yes". Otherwise, you just have it return the number.
+
+```{r}
+
+```
+
+### Some important notes:
+
+-   Make sure you're designing functions to fit the objects you want to work with. These functions will not work on data frames as they currently are written.
+
+-   R reads arguments by position, so if you don't address each argument by name, you better know the order the arguments are in.
+
+-   It is usually wise-especially when creating functions that others use-to build in safeguards that prevent a function from running when an argument is misspecified. R's messages aren't always helpful.
+
+### Exercises
+
+1.) Build a function similar to vmax for minimums now. Give it at least two arguments (the second is up to you, it can be n or something else you think of).
+
+```{r}
+
+```
+
+2.) Create a function called "countdown" that counts down (i.e., prints numbers) from some value, n, to another value, stop. Make the default value of stop 0.
+
+```{r}
+
+```
+
+## Special Features with Functions
+
+We've learned a lot about building functions, but we've only just begun. Writing a function requires you to think about how people will use it, both correctly and incorrectly. For example: We will want to use conditional statements to validate arguments are specified correctly, lest our function return the wrong number. Remember: This is a product for others. You want everything to be 100% correct and let people know when they're using it wrong.
+
+```{r}
+vmax4 <- function(data, n = length(data)){
+   if(class(data)=="numeric" | class(data)=="integer"){
+      temp_max <- -Inf
+      for(i in 1:n){
+         if(temp_max < data[i]){
+            temp_max = data[i]
+         } # end if statement
+      } # end loop
+      return(temp_max)
+   }else{ 
+      stop("Data must be numeric or integer")
+   } # end conditional
+} # end function
+```
+
+## Some examples of functions in base R
+
+We can expand our access to functions by downloading packages, but sometimes what we need isn't covered in either case. Thankfully, we can now build our own.
+
+### mean, median, minimum, maximum, range and sum
+
+```{r}
+v <- c(40,18,60)
+mean(v)
+median(v)
+min(v)
+max(v)
+range(v)
+sum(v)
+prod(v)
+```
+
+The efficacy of those functions depends on the data type and structure, so become familiar with how those work.
+
+### sort() to arrange a vector in ascending or descending order
+
+Similar to the "arrange" pipe in dplyr
+
+```{r}
+v <- c(18,75,20,33,4,56,12)
+#the default will sort in ascending order
+sort(v)
+#to sort in descending order, you have to specify "decreasing=TRUE" as an argument
+sort(v, decreasing=TRUE)
+```
+
+With character vectors, it will sort in alphabetical order, given that this usually the order of the collating sequence.
+
+```{r}
+s <- c("e","r","a","g","v","d")
+sort(s)
+
+#the decreasing argument also works with characters
+sort(s, decreasing=TRUE)
+```
+
+It also works when combining characters and numbers but it will convert the numbers into string and do weird things with those given the collating sequence (remember "10" \< "2" when specified as a string).
+
+```{r}
+sort(c(s,v))
+```
+
+### nchar() to count the number of character in a character object
+
+```{r}
+#in a word/single string
+nchar("banana")
+```
+
+```{r}
+#in a vector
+nchar(s)
+```
+
+### exists() to check if a variable is defined in your environment
+
+Careful, you have to specify the variable name as a character string for the input.
+
+```{r}
+exists("v")
+exists("s")
+exists("vmax3")
+exists(vmax2) #this won't work even though v exisits
+```
+
+That's it! Great job! :)
