@@ -1,0 +1,43 @@
+---
+title: "The Monty Hall Problem"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## The Problem
+
+You are on a game show and asked to pick one of three doors. Behind one door is a brand new car. Behind the other doors are two signs saying: "LOSER!!!". (How rude.) You pick a door and, no matter what, the game show host will reveal a door with a loser sign behind it. He asks you if you want to switch or keep your original door.
+
+What do you do?
+
+We can answer this by programming!
+
+## Instructions
+
+Create a function that answers the question of what you should do. You should have three arguments in this function: games_played (because this will involve a loop where you play many games), chosen_door (which is a door the user can choose), and switch (with acceptable values "Yes" and "No").
+
+-   Check to make sure the user enters "Yes" or "No" for switch. If not, return an error message telling them to do so.
+
+-   Check to make sure they did not pick 0 games to play. If they do, return an error saying they can't play 0 games. You can then manually set this to be a positive whole number with the code games_played \<- abs(ceiling(games_played)), which takes the absolute value and rounds it up to the nearest whole number. We need this to be a positive integer because it will serve as the end point of a loop.
+
+-   Check to make sure the user chooses door 1, 2, or 3. If not, return an error message telling them to do so.
+
+-   The output of the function should be a statement: "You won XX% of the XX games you played."
+
+## Hints
+
+This problem is not nearly as complicated as you might think. Your initial approach may try to make the code really complex, but remember the advice: "First, solve the problem. Then, write the code." How exactly do you WIN when you switch? What about when you don't switch?
+
+You will need code to choose a door at random. We will use the sample() command once more.
+
+```{r}
+doors <- c(1,2,3) 
+winning_door <- sample(doors, size = 1)
+```
+
+Happy coding!
+
+```{r}
+
+```
