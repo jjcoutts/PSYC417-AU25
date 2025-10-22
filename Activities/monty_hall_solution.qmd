@@ -1,0 +1,85 @@
+---
+title: "The Monty Hall Problem"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## The Problem
+
+You are on a game show and asked to pick one of three doors. Behind one door is a brand new car. Behind the other doors are two signs saying: "LOSER!!!". (How rude.) You pick a door and, no matter what, the game show host will reveal a door with a loser sign behind it. He asks you if you want to switch or keep your original door.
+
+What do you do?
+
+We can answer this by programming!
+
+## Instructions
+
+Create a function that answers the question of what you should do. You should have three arguments in this function: games_played (because this will involve a loop where you play many games), chosen_door (which is a door the user can choose), and switch (with acceptable values "Yes" and "No").
+
+-   Check to make sure the user enters "Yes" or "No" for switch. If not, return an error message telling them to do so.
+
+-   Check to make sure they did not pick 0 games to play. If they do, return an error saying they can't play 0 games. You can then manually set this to be a positive whole number with the code games_played \<- abs(ceiling(games_played)), which takes the absolute value and rounds it up to the nearest whole number. We need this to be a positive integer because it will serve as the end point of a loop.
+
+-   Check to make sure the user chooses door 1, 2, or 3. If not, return an error message telling them to do so.
+
+-   The output of the function should be a statement: "You won XX% of the XX games you played."
+
+## Hints
+
+This problem is not nearly as complicated as you might think. Your initial approach may try to make the code really complex, but remember the advice: "First, solve the problem. Then, write the code." How exactly do you WIN when you switch? What about when you don't switch?
+
+You will need code to choose a door at random. We will use the sample() command once more.
+
+```{r}
+doors <- c(1,2,3) 
+winning_door <- sample(doors, size = 1)
+```
+
+Happy coding!
+
+```{r}
+monty_hall <- function(chosen_door, games_played = 1000, switch="Yes"){
+  # check that switch is a valid value
+  if(switch != "No" & switch != "Yes"){
+    stop("You must set switch to 'Yes' or 'No'.")
+  }
+  # check that door choice is valid
+  if(chosen_door != 1 & chosen_door != 2 & chosen_door != 3){
+    stop("You must choose door 1, 2, or 3. This should be a numeric value.")
+  }
+  # check that at least one game is played
+  if(games_played ==0){
+    stop("You must play at least one game.")
+  }
+  # make sure iterate is a positive whole number
+  games_played <- abs(ceiling(games_played))
+  
+  # create code for simulation
+  doors <- c(1,2,3) # create doors 
+  win <- 0 # will add to this for each win
+  
+  for(i in 1:games_played){
+    winning_door <- sample(doors, size = 1) # pick a winning door at random in each iteration
+
+    # count the wins
+    if(switch == "No" & chosen_door == winning_door){
+      win <- win + 1 # we win  if we choose the right door and don't switch
+    } else if(switch == "Yes" & chosen_door != winning_door){
+      win <- win + 1 # we win if we choose the wrong door and switch
+    } # end else if
+  } # end loop
+  
+  # return statement showing performance
+  return(paste("You won ",win/games_played*100,"% of the ",games_played," games you played.", sep = ""))
+} # end function
+```
+
+Now, let's check our function to make sure it works.
+
+```{r}
+monty_hall(chosen_door = 1, games_played = 10000, switch = "Yes")
+monty_hall(chosen_door = 3, games_played = 10000, switch = "No")
+```
+
+We just computationally proved an unintuitive finding in probability!
