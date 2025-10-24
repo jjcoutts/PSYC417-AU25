@@ -1,0 +1,46 @@
+---
+title: "Assignment 2 Instructions"
+author: "PSYC417"
+format: pdf
+editor: visual
+---
+
+This assignment is going to test your skills in functions, conditionals, loops, and packages. You may get to the answer **using any of the techniques we specify in class, [unless the question requests otherwise.]{.underline} If so, you must use that technique.** Do not use techniques or code we didn't learn in class (e.g., from a package we haven't used).
+
+Write each question/number into the Quarto document as text and place any code or text to answer the question on the lines below it. In short, it should look something like below:
+
+**Question 1 - Text from question 1. (MAKE THIS ONE OF THE HEADER STYLES SO IT'S EASIER TO READ.)**
+
+Code chunk, if applicable.
+
+*Text answering question, if applicable.*
+
+**Question 2 - Text from question 2. (MAKE THIS ONE OF THE HEADER STYLES SO IT'S EASIER TO READ.)**
+
+.... and so on.
+
+## Questions
+
+The data for this assignment come from a sample of over 300 couples who completed a questionnaire on their ability to cope with stress, their depression, and their marital satisfaction. There are three numeric variables in the data (which are the average responses of each member of the couple):
+
+-   COPE - Ability to cope with stress
+
+-   DEPRESS - Self-reported depressive symptoms
+
+-   SAT - Marital satisfaction
+
+**5pts:** Create a Quarto document titled "Assignment 2" with you as the author. **Make sure the document type is .html. (It may be a .pdf, but only if you're familiar with LaTeX. Do not spend any time trying to get this to work otherwise, it can be tricky.)** When uploading the assignment to ELMS, ensure you upload both the .qmd and .html files.
+
+**20pts:** In R, create a new variable called "SAT_DEP" that is the product of marital satisfaction and depressive symptomatology. Plot this variable with coping ability and put coping ability on the x-axis. Produce the correlation. What can you infer about this relationship (without any significance tests)? Note: Just use the plot(x, y) and cor(x, y) functions. Don't worry, we'll learn more about these later.
+
+**30pts:** Create a function called Cmeans that computes the means of each column of the data frame. This SHOULD NOT use the built-in colMeans() function in R. You must use a loop to answer this question and it should generalize to a data frame with **any number of columns**. (You can't loop from 1 to 3, for example.) You should check to make sure the data entered are numeric. If not, generate an error saying to only enter numeric data. Verify with the colMeans() function that your new function works.
+
+Style points: If there are missing data, remove the missing values, compute the mean, and print the expression "Warning: There were XX missing values. They were removed before computing the column means." where XX is the number of missing values. Verify this works by either putting missing values into the couples data or create your own data frame with missing (NA) values.
+
+**30pts**: Create a function called Pplots that computes a scatter plot for every pair of **NUMERIC** variables in a data frame. This SHOULD NOT use the built-in pairs() function in R. You must use a loop to answer this question and it should generalize to a data frame with **any number of columns**. (You can't loop from 1 to 3, for example.) Verify with the pairs() function that your new function works.
+
+**15pts:** There is a function called **describe** in the **Hmisc** package. Load the pacakage and use this function to describe the couples data frame. (Hint: Remember what we talked about when using outside functions.)
+
+Render the document and upload the .qmd and .html files to ELMS.
+
+Thank you! :)
