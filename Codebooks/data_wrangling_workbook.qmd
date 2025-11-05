@@ -1,0 +1,274 @@
+---
+title: "Data Wrangling Workbook"
+author: "PSYC417"
+format: html
+editor: visual
+---
+
+## Installing & loading appropriate libraries (tidyverse)
+
+```{r}
+# Recall: You will need to comment out (using #) the install.packages("tidyverse") line of code before you render.
+# You only need to run the install.packages("tidyverse") line of code once! You don't need to rerun it each time you open a new Quarto document.
+install.packages("tidyverse")
+
+# You must run the library("tidyverse") each time you open R.
+library("tidyverse")
+```
+
+# Let's take a look at the dataframe we will be working with
+
+```{r}
+starwars <- as.data.frame(starwars)
+```
+
+# A few basics notes
+
+```{r}
+# There is a difference between creating an output and creating a new dataframe
+
+# Creating an output
+starwars %>%
+  filter(species == "Droid")
+
+# Creating a new dataframe 
+starwars.droids <- starwars %>%
+  filter(species == "Droid")
+
+# Why does this matter? If you do not create a new dataframe, you cannot use the manipulated data later on! 
+```
+
+## Functions within Tidyverse
+
+# filter() - 1 condition
+
+```{r}
+# I want to index data to only include humans
+# species = Human
+
+
+```
+
+# filter() - 2 conditions
+
+```{r}
+# I want to index data to only include humans who are from the Naboo planet
+# species = Human
+# homeworld = Naboo
+
+
+```
+
+# filter() - 3+ conditions
+
+```{r}
+# I want to index data to only include humans, who are from the Naboo planet, and have brown hair
+# species = Human
+# homeworld = Naboo
+# hair_color = brown
+
+
+
+# You can add more conditions by using more commas
+
+```
+
+# filter() - remove missing data (for a specific variable)
+
+```{r}
+# In the previous output, we can see there's some missing data. Let's remove that! 
+# We can remove missing data from specific variables, in this example, we will remove it from the mass variable
+
+
+# Now, you have an output that includes humans, who are from the Naboo planet, have brown hair with all missing data removed
+
+```
+
+# arrange() - ascending order (default)
+
+```{r}
+# I want to arrange my data from characters with the smallest mass to the largest mass
+
+```
+
+# arrange() - descending order
+
+```{r}
+# I want to arrange my data from characters with the largest mass to the smallest mass
+
+```
+
+# slice()
+
+```{r}
+# I want the 30-40th rows of the dataframe
+
+```
+
+# slice_head()
+
+```{r}
+# I want the top 12 rows of the dataframe
+
+```
+
+# slice_tail()
+
+```{r}
+# I want the bottom 11 rows of the dataframe
+
+```
+
+# slice_sample() - specific number
+
+```{r}
+# I want 14 random rows from the dataframe
+
+```
+
+# slice_sample() - proportion
+
+```{r}
+# I want a random 10% of rows from the dataframe
+
+```
+
+# slice_min()
+
+```{r}
+# I want the 3 rows with the lowest height (the 3 shortest characters)
+
+```
+
+# slice_max()
+
+```{r}
+# I want the 4 rows with the highest height (the 3 tallest characters)
+
+```
+
+# select() - specifying the columns we want
+
+```{r}
+# I want a dataframe that only includes the variables: name, homeworld, and species
+
+```
+
+# select() - removing the columns we don't want
+
+```{r}
+# I want a dataframe that only includes all the variables except films
+
+```
+
+# select(starts_with())
+
+```{r}
+# I want a dataframe that only includes the variables that start with the letter "s"
+
+```
+
+# select(ends_with())
+
+```{r}
+# I want a dataframe that only includes the variables that start with the letter "r"
+
+```
+
+# select(contains())
+
+```{r}
+# I want a dataframe that only includes the variables that contain the world "color" in them
+
+```
+
+# select() - change the order of the first variable, then keep all other variables in the same order
+
+```{r}
+# I want a dataframe that has the homeworld variable listed first
+
+```
+
+# mutate() - 1 new variable
+
+```{r}
+# I want to add a variable called 'combined' that adds the character's height and mass together (height + mass)
+
+```
+
+# mutate() - 2 new variables
+
+```{r}
+# I want to add a variable called 'combined' that adds the character's height and mass together (height + mass) and another variable called 'divided' that divides their height by mass (height/mass)
+
+```
+
+# summarise()
+
+```{r}
+# This function doesn't work well with our data, so I have created a new dataframe below for the sake of the example 
+
+# Let's say we have the following dataframe (go ahead and take a look):
+data.example <- data.frame(subjectID = 1:5,
+                           wmc.score = c(23,42,12,24,18),
+                           ltm.score = c(18, 21, 22, 19, 19))
+
+# I want to get the mean wmc.score called "mean.wmc" & the mean ltm.score called "mean.ltm"
+
+
+# I want to get the mean wmc.score called "mean.wmc" & the standard deviation of wmc.score called "sd.wmc"
+
+```
+
+# group_by()
+
+```{r}
+# group_by() is usually combined with another function
+
+# I want the mean height of each species 
+# So, we will group by species and summarise the mean height
+
+```
+
+# summarise() - remove missing data (for a specific variable)
+
+```{r}
+# In the previous output, we can see there's some missing data. Let's remove that! 
+# We can remove missing data from the new summarised score we created (mean.height)
+
+```
+
+# Combining multiple actions together
+
+```{r}
+# For humans only, I want the mean height based on eye color. But, I only want to know what the the two highest mean heights from that is
+
+```
+
+## For pivot_longer() we will be using the Seatbelts dataframe.
+
+```{r}
+# Let's take a look at our dataframe
+Seatbelts <- as.data.frame(Seatbelts)
+```
+
+# pivot_longer()
+
+```{r}
+# I want the dataframe to have 1 column that specifies location in the car (front and rear) called "Location" and 1 column that indicates the number of deaths for passengers in that location called "Deaths"
+
+```
+
+## For pivot_wider(), we will be using the ChickWeight dataframe.
+
+```{r}
+#Let's take a look at our dataframe
+ChickWeight <- as.data.frame(ChickWeight)
+```
+
+# pivot_wider()
+
+```{r}
+# I want the dataframe to show one row per chick where there are separate columns for each day
+
+```
