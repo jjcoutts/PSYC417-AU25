@@ -1,0 +1,1183 @@
+﻿age,class_hours,class_rating,class_device,study_hours,fitness_hours,sleep_hours,soc_media_hours,tv_hours,daily_meals,weight_change,health_probs,destress,gamer
+13,5,4,Tablet,2,0.5,7,1,1,3,Remain Constant,NO,Talking,0
+14,5,5,Laptop/Desktop,3.5,1,8,0.5,1,4,Remain Constant,NO,Reading books,0
+13,4,3,Smartphone,0,0.5,8,3,2,4,Decreased,NO,Online gaming,1
+14,6,3,Smartphone,4,1,9,1,1,4,Remain Constant,NO,Listening to music,0
+12,3,4,Smartphone,4,1,8,1,2,3,Decreased,NO,Dancing,0
+13,3,1,Smartphone,1,0.5,8,3,1,3,Remain Constant,NO,Watching YouTube,0
+15,5,4,Tablet,4,1,7,2,0,4,Increased,NO,Social Media,0
+13,8,3,Laptop/Desktop,2,1,7,1,1,3,Decreased,NO,Cooking,0
+12,6,5,Laptop/Desktop,3,1,9,4,3,4,Remain Constant,NO,Talking to your relatives,0
+15,5,3,Smartphone,2,1,13,1,1,2,Remain Constant,NO,Online surfing,0
+13,4,4,Smartphone,4,1,8,1,2,3,Decreased,NO,Reading,0
+13,5,5,Laptop/Desktop,6,1,6,0,0,4,Remain Constant,NO,Listening to music,0
+16,7.5,4,Laptop/Desktop,4.5,0,6,0.5,2,4,Remain Constant,NO,Listening to music,0
+13,6,4,Tablet,2,1,6,1,2,3,Decreased,NO,Dancing,0
+12,5,4,Laptop/Desktop,2,0,8,2,1,3,Remain Constant,NO,Listening to music,0
+12,6,3,Smartphone,3,1,9,1,1,4,Remain Constant,NO,Listening to music,0
+13,6,5,Laptop/Desktop,2,0.5,9,1,3,4,Remain Constant,NO,Online gaming,1
+12,4,1,Smartphone,1.5,0,9,5,1,4,Increased,NO,Painting,0
+13,5,5,Laptop/Desktop,4,1,8,1,1.5,3,Decreased,NO,Listening to music,0
+12,5,5,Smartphone,2,1,12,0,1,3,Remain Constant,NO,Dancing,0
+13,6,1,Laptop/Desktop,3,1,8,2,2,3,Decreased,NO,Listening to music,0
+14,4,5,Smartphone,2,1,6,1,1,2,Remain Constant,NO,Listening to music,0
+12,4,5,Smartphone,3,2,10,1,1,4,Increased,NO,Sleeping,0
+14,3,5,Smartphone,5,2,12,0.25,0,3,Increased,NO,Sleeping,0
+14,6,3,Smartphone,2,0.5,10,1,1,3,Remain Constant,NO,Sleeping,0
+12,6,5,Smartphone,5,1,8,2,1,2,Remain Constant,NO,Listening to music,0
+14,6,4,Smartphone,2,1,8,1,1,1,Decreased,NO,Social Media,0
+14,6,5,Laptop/Desktop,1,2,7,1,1,4,Increased,NO,Sleeping,0
+13,6,5,Smartphone,7,0,5,0,0,3,Remain Constant,NO,"Poetry, writing books and novels , listening to music too",0
+12,5,5,Laptop/Desktop,3,1,7,0,2,2,Remain Constant,NO,Listening to music,0
+12,4,4,Smartphone,2,1,8,0,3,4,Remain Constant,NO,Meditation,0
+13,4,5,Laptop/Desktop,4,1,8,0,1,2,Remain Constant,NO,Listening to music and reading books both .,0
+12,6,4,Laptop/Desktop,2,2,8,7,2,3,Remain Constant,NO,Social Media,0
+14,5,5,Smartphone,2,0,12,2,1,3,Remain Constant,NO,Listening to music,0
+13,4,4,Smartphone,1,0.5,7,1,2,4,Increased,NO,Listening to music,0
+11,5,3,Smartphone,2,1,8,1,0.5,1,Decreased,NO,Watching web series,0
+13,6,4,Smartphone,2,0,11,1,0.5,3,Remain Constant,NO,Online gaming,1
+22,5,3,Laptop/Desktop,4,0,8,3,0,2,Increased,NO,Talking to your relatives,0
+17,6,1,Smartphone,3,1,7,1,1,2,Decreased,NO,Gym,0
+15,4,1,Smartphone,2,1,9,0.5,2,4,Remain Constant,NO,Online gaming,1
+13,4,3,Smartphone,1,0,10,1,1,2,Remain Constant,NO,Online gaming,1
+14,3,3,Smartphone,1,1,10,1,2,2,Decreased,NO,Listening to music,0
+14,5,3,Smartphone or Laptop/Desktop,2,0,9,0.5,0.5,4,Increased,YES,Listening to music,0
+15,8,4,Laptop/Desktop,1.5,0.5,8,0.5,0.3,3,Remain Constant,NO,Online gaming,1
+12,4,3,Smartphone,1,1,8,2,0.5,2,Remain Constant,NO,Scrolling through social media,0
+13,5,5,Smartphone,3,1,8,2,1,2,Increased,NO,Reading books,0
+10,4,4,Smartphone,2,1,7,0,1,3,Remain Constant,NO,Talking,0
+16,4,3,Smartphone,2,0,5,1,1,3,Increased,NO,Online gaming,1
+14,6,4,Laptop/Desktop,3,1,6,1,1,3,Remain Constant,NO,Sleeping,0
+13,2,4,Smartphone,2,1,6,1,0,2,Decreased,NO,Listening to music,0
+12,6,5,Tablet,2,0.5,9,1,1,3,Increased,NO,Youtube,0
+11,4,5,Smartphone,2,0,11,1,2,2,Remain Constant,NO,Meditation,0
+12,5.5,4,Smartphone,2,1,7,3,1,2,Remain Constant,NO,Social Media,0
+13,4,3,Smartphone,2,1,8,2,5,3,Remain Constant,NO,I play Rubiks cube,0
+13,3,1,Smartphone,1,2,7,3,2,3,Remain Constant,NO,Online gaming,1
+14,6,3,Smartphone,3,1,10,1,2,4,Remain Constant,NO,Sleeping,0
+13,3,4,Tablet,4,1,7,1,3,3,Increased,NO,Online gaming,1
+18,7,3,Smartphone,4,0,6,1,0,2,Remain Constant,NO,Listening to music,0
+13,5,4,Tablet,4,1,8,1,0,2,Decreased,NO,Listening to music,0
+14,4,5,Smartphone,2,2,12,1,2,3,Decreased,NO,Watching web series,0
+14,6,3,Smartphone,2,1,4,1,2,3,Remain Constant,NO,Dancing,0
+14,6,4,Smartphone,3,1,7,1,1,4,Remain Constant,NO,Sleeping,0
+14,4,3,Smartphone,0,1,9,3,1,3,Remain Constant,NO,Online gaming,1
+14,6,3,Laptop/Desktop,8,1,8,1,0.1,2,Remain Constant,NO,Scrolling through social media,0
+13,6,3,Laptop/Desktop,2,0,5,1,0,3,Remain Constant,NO,Online gaming,1
+13,8,4,Smartphone,3,1,13,1,2,2,Increased,NO,Meditation,0
+14,4,4,Smartphone,3.5,0,9,2,3,3,Remain Constant,NO,Listening to music,0
+12,4,5,Smartphone,2,1,6,0,2,2,Remain Constant,YES,Listening to music,0
+16,4,4,Laptop/Desktop,1,1,7,1,3,2,Remain Constant,NO,Listening to music,0
+13,6,4,Smartphone,2,2,6,1,1,1,Decreased,NO,Listening to music,0
+12,4,4,Tablet,1,1,9,1,3,3,Increased,NO,Listening to music,0
+13,5,5,Tablet,4,1,8,0,0.5,4,Remain Constant,NO,Listening to music,0
+15,6,3,Smartphone,11,0.25,7,5,0,4,Increased,NO,"Online gaming , surfing and listening to music",0
+12,5,4,Smartphone,5,0,6,1,2,2,Remain Constant,NO,Listening to music,0
+13,4,5,Smartphone,3,0.25,8,1,0.5,1,Increased,NO,Online gaming,1
+14,4,5,Smartphone,2,1,9,1,2,3,Remain Constant,NO,Listening to music,0
+12,5,4,Tablet,1,0,7,4,0,2,Increased,NO,Online gaming,1
+16,5,3,Laptop/Desktop,8,2,5,2,0,4,Remain Constant,NO,Taking with parents,0
+17,2,1,Tablet,8,3,5,0,1,4,Increased,NO,Youtube,0
+15,6,3,Smartphone,1,1,9,1,2,3,Decreased,NO,Listening to music,0
+16,5,3,Smartphone,2,1,10,1,0.5,3,Remain Constant,NO,Listening to music,0
+16,5,3,Laptop/Desktop,4,0,6,1,0,3,Remain Constant,NO,Painting,0
+16,5,5,Smartphone,1,1,11,0,2,3,Remain Constant,NO,Listening to music,0
+24,6,3,Smartphone,6,0,7,2,0,3,Decreased,NO,Do some home related stuff,0
+16,4,1,Smartphone,2,2,6,5,0,4,Increased,NO,Sleeping,0
+15,5,4,Laptop/Desktop,2,2,6,0.5,2,3,Remain Constant,NO,Social Media,0
+16,4,1,Smartphone,5,1,7,1,1,3,Increased,NO,Online surfing,0
+16,5,1,Smartphone,2,1,8,1,4,2,Increased,NO,Talking to your relatives,0
+20,0,1,Smartphone,6,1,9,3,0,3,Increased,NO,Listening to music,0
+25,5,3,Laptop/Desktop,1,3,6,5,0,3,Decreased,NO,Watching web series,0
+17,4,1,Laptop/Desktop,0,1,7,1,3,4,Increased,NO,Online gaming,1
+16,4,4,Smartphone,3,1,8,1,1,4,Remain Constant,NO,Talking,0
+15,5,1,Smartphone,3,1,9,3,0,3,Decreased,NO,Scrolling through social media,0
+16,8,3,Laptop/Desktop,1,0,8,1,2,2,Remain Constant,NO,Online gaming,1
+16,8,3,Laptop/Desktop,0,0,6,6,0,3,Remain Constant,NO,Listening to music,0
+16,6,1,Smartphone,3,1,10,1,0.5,3,Remain Constant,NO,Sleeping,0
+17,3,1,Smartphone,6,0,8,2,0,3,Remain Constant,NO,Online gaming,1
+15,9,5,Laptop/Desktop,10,0.5,6,0,2,3,Remain Constant,NO,Reading books,0
+16,4,3,Laptop/Desktop,1,1,9,2,0.4,4,Remain Constant,NO,Online gaming,1
+16,8,1,Smartphone,5,1,8,1,1,3,Remain Constant,NO,Sleeping,0
+17,6,3,Smartphone,1,0,8,1,0,2,Remain Constant,NO,Online gaming,1
+16,6,3,Laptop/Desktop,1,0.5,9,1,1,2,Decreased,NO,All reading books watching web series listening to music and talking to friends,0
+16,7,4,Smartphone,3,0,7,2,1,2,Increased,NO,Listening to music,0
+16,4,4,Smartphone,4,1,7,2,1,2,Remain Constant,NO,Listening to music,0
+16,8,4,Laptop/Desktop,4,0,7,2,0,2,Increased,NO,Social Media,0
+16,8,3,Smartphone,4,0,5,8,3,3,Remain Constant,NO,Listening to music,0
+15,5,5,Laptop/Desktop,4,0.5,8,0,1,3,Remain Constant,NO,Sleeping,0
+16,8,3,Laptop/Desktop,8,0,7,2,0,3,Remain Constant,NO,Listening to music,0
+15,4,3,Laptop/Desktop,4,1,7,1,1.5,3,Remain Constant,NO,Reading books,0
+16,7,3,Laptop/Desktop,3,0,8,3,2,2,Remain Constant,NO,"Drawing, painting",0
+16,8,3,Laptop/Desktop,1,0.3,8,0,0,2,Increased,YES,no stress,0
+15,3,3,Smartphone,4,0.5,7,1,1.5,4,Increased,NO,Listening to music,0
+16,7,4,Smartphone,2,0,8,0.5,1.5,3,Remain Constant,NO,Talking,0
+15,8,1,Smartphone,2,0,8,1,0,3,Increased,NO,Online gaming,1
+15,4,4,Smartphone,4,1,7,2,1,4,Remain Constant,NO,Online gaming,1
+15,4,1,Laptop/Desktop,4,0,5,4,0,3,Decreased,NO,Online gaming,1
+16,4,3,Laptop/Desktop,8,1,8,0.5,0.5,4,Decreased,NO,Listening to music,0
+15,5,3,Laptop/Desktop,4,1,8,2,1,3,Remain Constant,NO,Listening to music,0
+16,5,1,Smartphone,2,0.5,7,1,2,3,Remain Constant,NO,Calling friends,0
+30,2,1,Laptop/Desktop,0,1,8,1,8,4,Increased,NO,Watching web series,0
+16,7,4,Tablet,3,0,8,0.5,0,2,Decreased,NO,Listening to music,0
+16,4,1,Smartphone,4,1,7,2,0,3,Remain Constant,NO,Watching web series,0
+16,5,1,Smartphone,1,2,10,1.5,0,3,Remain Constant,NO,Online gaming,1
+15,7,4,Smartphone,3,2,6,0,1,3,Remain Constant,NO,Sleeping,0
+16,5,3,Laptop/Desktop,2,1,10,1,2,4,Increased,NO,Listening to music,0
+16,8,4,Smartphone,5,0,9,1,0,2,Increased,NO,Social Media,0
+15,8,3,Tablet,4,0,5,2,1,3,Remain Constant,NO,Watching ted talks and music and books,0
+16,4,5,Smartphone or Laptop/Desktop,3,1,8,5,5,3,Increased,NO,Listening to music,0
+17,4,3,Laptop/Desktop,5,2,7,0.4,0.5,3,Remain Constant,NO,"Reading books, music, exercise",0
+15,4,3,Laptop/Desktop,3,0,8,2,1,3,Remain Constant,NO,Painting,0
+17,5,1,Laptop/Desktop,0.5,0.3,7.5,0.5,0.3,3,Remain Constant,NO,Online gaming,1
+24,2,3,Smartphone,4,0,6,3,0,4,Increased,NO,Watching web series,0
+33,4,3,Smartphone,2,1,6,4,1,3,Increased,YES,Talking to your relatives,0
+20,3,3,Laptop/Desktop,2,0,9,5,0,4,Increased,NO,Scrolling through social media,0
+23,2,4,Smartphone,1,1,5,2,1,2,Decreased,NO,Cooking,0
+18,6,1,Laptop/Desktop,2,0,8,1,0.5,2,Increased,NO,Watching web series,0
+31,8,1,Laptop/Desktop,1,0,8,2,1,2,Remain Constant,NO,Online gaming,1
+18,0,4,Smartphone,3,1,7,2,1,4,Remain Constant,NO,Meditation,0
+20,3,3,Smartphone,3,1,11,3,0,3,Remain Constant,NO,With a friend,0
+20,3,1,Smartphone,2,0,6,3,0,2,Increased,NO,Reading books,0
+18,2,3,Smartphone,2,1,8,1.3,2,4,Remain Constant,NO,Drawing and painting and sketching,0
+19,4,1,Laptop/Desktop,3,0,10,4,NA,2,Increased,YES,Sleeping,0
+21,0,2,Smartphone,1,0,7,0,0,2,Increased,NO,Reading books,0
+22,2,1,Smartphone,3,1,10,4,2,4,Remain Constant,NO,Scrolling through social media,0
+22,2,3,Laptop/Desktop,2,1,8,3,0.5,3,Remain Constant,NO,Scrolling through social media,0
+21,4,5,Laptop/Desktop,2,0,8,0.5,4,3,Increased,YES,Meditation,0
+20,2,4,Smartphone,2,1,8,2,3,3,Decreased,NO,Sleeping,0
+20,2,1,Laptop/Desktop,1,0,6,1,2,3,Decreased,NO,Listening to music,0
+21,6,4,Laptop/Desktop,4,1,8,2,0.5,3,Remain Constant,NO,Web Series,0
+20,5,1,Laptop/Desktop,3,0.5,10,3,2,3,Increased,NO,Sleeping,0
+18,4,1,Laptop/Desktop,1,1,10,3,1,4,Increased,NO,Reading books,0
+19,3,1,Laptop/Desktop,3,0,8,3,0,3,Remain Constant,YES,Scrolling through social media,0
+20,5,3,Laptop/Desktop,4,1,8,1.5,1,3,Increased,NO,Listening to music,0
+20,0,3,Smartphone,0,2,9,2,0.5,3,Remain Constant,NO,Sports,0
+24,2,1,Smartphone,6,0,12,4,0,4,Remain Constant,NO,Scrolling through social media,0
+23,4,3,Smartphone,3,1,8,2,0,4,Remain Constant,NO,Scrolling through social media,0
+22,2,1,Smartphone,1,0,9,3,2,2,Decreased,YES,Listening to music,0
+20,2,1,Smartphone,8,1,6,1,0,3,Remain Constant,NO,Watching web series,0
+25,0,1,Smartphone,2,0,7,5,0,3,Remain Constant,NO,Listening to music,0
+24,2,4,Smartphone,0,1,9,5,3,4,Increased,NO,Online gaming,1
+38,2,3,Laptop/Desktop,3,1,5,3,0,3,Increased,NO,Listening to music,0
+16,4,1,Smartphone,2,0,9,2,0,2,Remain Constant,NO,Scrolling through social media,0
+20,6,4,Laptop/Desktop,4,1,6,1,0,3,Increased,NO,Listening to music,0
+22,5,1,Laptop/Desktop,1,1,8,1,0.5,3,Decreased,YES,Sleeping,0
+36,3,3,Laptop/Desktop,2,0,10,2,0,3,Increased,NO,Watching web series,0
+27,0,4,Smartphone,2,0,8,2,2,3,Remain Constant,NO,Sleeping,0
+35,1,4,Smartphone,3,1,7,2,0,2,Remain Constant,NO,Talking,0
+32,4,3,Laptop/Desktop,4,1,6,0.3,0,3,Remain Constant,NO,Cooking,0
+25,0,4,Laptop/Desktop,4,1,8,2,0,2,Remain Constant,YES,Web Series,0
+24,1,4,Smartphone,3,2,8,2,0,2,Remain Constant,NO,Social Media,0
+21,0,2,Smartphone,1,2,7,2,0.5,4,Decreased,NO,Meditation,0
+32,3,3,Laptop/Desktop,2,0,6,2,0.3,3,Increased,YES,Talking to your relatives,0
+28,5,4,Laptop/Desktop,4,1,10,2,1,3,Remain Constant,NO,Online gaming,1
+29,5,3,Laptop/Desktop,3,1,8,2,2,3,Remain Constant,NO,Watching web series,0
+20,2,4,Smartphone,3,1,6,2,3,2,Remain Constant,NO,Sleeping,0
+23,3,3,Smartphone,4,1,8,3,2,3,Remain Constant,NO,Online surfing,0
+22,0,4,Laptop/Desktop,2,1,9,2,2,2,Remain Constant,NO,Sleeping,0
+19,4,3,Laptop/Desktop,2,0.5,8,2,1,2,Remain Constant,NO,Watching web series,0
+26,4,1,Smartphone,3,1,7,2,1,3,Remain Constant,NO,Listening to music,0
+23,4,4,Smartphone,2,1,7,3,1,3,Remain Constant,YES,Cooking,0
+20,3,1,Laptop/Desktop,2,1,8,1,1,4,Increased,NO,Online gaming,1
+26,4,1,Smartphone,2,0,7,2,0,3,Increased,NO,Listening to music,0
+20,3,1,Laptop/Desktop,2,0,7,3,0,4,Decreased,YES,Reading books,0
+19,6,3,Laptop/Desktop,2,2,6,3,0.3,2,Increased,NO,Listening to music,0
+19,4,1,Laptop/Desktop,3,0,8,2,0,3,Remain Constant,NO,Listening to music,0
+18,5,4,Smartphone,3,2,8,3,0,3,Remain Constant,NO,Listening to music,0
+12,0,5,Smartphone,3,1,8,1,2,2,Increased,NO,Reading books,0
+18,6,1,Smartphone,4,0,7,3,0.3,4,Decreased,NO,Online surfing,0
+19,6,4,Laptop/Desktop,2,0,8,10,0,4,Increased,NO,Social Media,0
+19,8,3,Smartphone,4,0,6,1,2,2,Remain Constant,NO,Sleeping,0
+22,4,4,Laptop/Desktop,2,0,9,3,1,2,Increased,NO,Listening to music,0
+23,2,3,Laptop/Desktop,2,2,7,5,2,2,Remain Constant,NO,Scrolling through social media,0
+19,0,1,Laptop/Desktop,8,0,8,10,0,3,Remain Constant,YES,Talking to your relatives,0
+21,2,3,Laptop/Desktop,1,0,12,3,0,2,Increased,NO,Listening to music,0
+18,5,3,Smartphone,2,0,6,1,0,3,Remain Constant,NO,Talking to your relatives,0
+19,2,4,Smartphone,2,1,8,3,2,1,Decreased,YES,Listening to music,0
+18,8,3,Smartphone,3,1,5,4,2,2,Decreased,NO,Listening to music,0
+26,1,3,Smartphone,1,0,8,3,0,3,Increased,NO,Listening to music,0
+19,8,4,Smartphone,2,2,8,5,1,2,Decreased,YES,Dancing,0
+18,4,1,Smartphone,0,1,8,2,0.3,3,Remain Constant,NO,Sketching,0
+18,8,1,Smartphone,0,1,6,5,0,2,Decreased,NO,Online gaming,1
+19,6,3,Laptop/Desktop,5,1,7,3,0.3,4,Increased,NO,Watching web series,0
+19,6,1,Laptop/Desktop,2,0,8,2,0,3,Increased,NO,Listening to music,0
+20,4,4,Smartphone,2,1,8,2,0.1,4,Remain Constant,NO,Cooking,0
+18,5,1,Smartphone,0,0,7,1,0.5,3,Decreased,NO,Online gaming,1
+19,6,3,Smartphone,4,1,6,5,2,3,Remain Constant,NO,Online gaming,1
+18,8,4,Smartphone,2,0.25,7,1.5,1,3,Increased,NO,Talking,0
+18,7,1,Smartphone,4,0,9,2,0,2,Decreased,NO,Online surfing,0
+27,4,3,Smartphone,2,0,7,8,4,3,Increased,NO,Listening to music,0
+20,4,4,Smartphone,2,1,8,2,0.1,4,Remain Constant,NO,Cooking,0
+20,10,1,Laptop/Desktop,2,1,8,5,0,3,Remain Constant,NO,Scrolling through social media,0
+17,4,4,Laptop/Desktop,2,1,10,6,4,4,Increased,NO,Listening to music,0
+19,2,3,Laptop/Desktop,3,0.5,8,2,1,3,Increased,NO,Watching web series,0
+20,4,1,Smartphone,2,0,10,1,0,3,Decreased,NO,Sleeping,0
+19,1,4,Laptop/Desktop,2,0,8,1,0.3,3,Remain Constant,NO,Dancing,0
+20,4,1,Laptop/Desktop,3,0,9,2,1,2,Remain Constant,NO,Scrolling through social media,0
+21,5,3,Smartphone,3,1,8,4,0,4,Remain Constant,YES,Cooking,0
+19,3,3,Smartphone,5,1,6,1,0,2,Remain Constant,NO,Reading books,0
+23,2,1,Laptop/Desktop,1,1,7.5,1,2,3,Remain Constant,NO,Online gaming,1
+26,0,1,Smartphone,0,0,12,2,2,2,Remain Constant,YES,Listening to music,0
+21,8,1,Laptop/Desktop,1,1,9,2,0,3,Remain Constant,YES,Scrolling through social media,0
+23,0,NA,NA,2,2,10,6,0,2,Remain Constant,NO,Listening to music,0
+22,0,4,Laptop/Desktop,4,1,7,3,0,3,Increased,NO,Listening to music,0
+11,2,5,Smartphone,1,0,10,3,2,3,Increased,NO,Online gaming,1
+21,0,NA,NA,6,1,9,2,0.5,4,Increased,NO,Scrolling through social media,0
+20,5,4,Laptop/Desktop,5,0,8,3,0,2,Remain Constant,NO,Reading,0
+38,2,1,Laptop/Desktop,4,0,7,3,1,3,Increased,NO,Scrolling through social media,0
+21,4,3,Smartphone,8,0,6,1,0,2,Decreased,YES,Online surfing,0
+18,0,2,Smartphone,0,2,12,1,0,7,Increased,NO,Online gaming,1
+20,0,NA,NA,2,0,7,0.5,2,2,Remain Constant,NO,Online surfing,0
+23,2,3,Smartphone,2,0.3,8,1,NA,3,Decreased,NO,Meditation,0
+20,3,4,Laptop/Desktop,2,1,10,2,0,4,Increased,NO,Sleeping,0
+11,4,4,Smartphone,2,0,9,1,0,3,Remain Constant,NO,Sleeping,0
+33,2,3,Smartphone,1,0,6,1,0.5,2,Remain Constant,NO,Meditation,0
+21,0,NA,NA,1,1,11,8,3,3,Increased,NO,Listening to music,0
+23,2,3,Laptop/Desktop,6,1,7,2,1,3,Increased,NO,Online gaming,1
+14,3,4,Smartphone,1,0,8,3,1,4,Remain Constant,NO,Web Series,0
+14,6,4,Tablet,2,0,8.3,1,2.5,3,Increased,NO,Online gaming,1
+21,6,3,Smartphone,2,1,7,3,1,3,Decreased,NO,Reading books,0
+23,10,3,Laptop/Desktop,1,0,8,8,1,3,Decreased,NO,Watching web series,0
+19,1,3,Smartphone,0,0,8,6,2,2,Decreased,YES,Online gaming,1
+24,0,3,Laptop/Desktop,10,1,8,1,0,3,Increased,NO,Talking to your relatives,0
+17,3,3,Smartphone,2,1,8,5,3.5,1,Remain Constant,NO,Watching web series,0
+21,4,4,Laptop/Desktop,10,1,7,3,0,3,Remain Constant,YES,Listening to music,0
+23,2,4,Smartphone,7,0,7,4,1,4,Increased,NO,Dancing,0
+22,4,3,Laptop/Desktop,6,0,8,5,1,3,Increased,NO,Listening to music,0
+22,2,1,Laptop/Desktop,1,0,8,4,0,2,Remain Constant,NO,Online gaming,1
+20,4,1,Smartphone,3,1,8,5,2,4,Increased,NO,Reading books,0
+16,3,3,Smartphone,3,0,10,5,3,4,Remain Constant,NO,Listening to music,0
+15,2,4,Laptop/Desktop,2,0,11,5,0,3,Remain Constant,NO,Web Series,0
+40,5,5,Laptop/Desktop,4,1,7,6,2,3,Remain Constant,NO,Listening to music,0
+21,2,3,Laptop/Desktop,3,1,8,6,2,3,Remain Constant,NO,Dancing,0
+22,1,1,Laptop/Desktop,6,0,6,2,0,2,Increased,YES,Watching web series,0
+21,2,1,Smartphone,2,0,7,1,1,3,Remain Constant,YES,Listening to music,0
+26,9,1,Laptop/Desktop,2,0,5,3,1,3,Increased,NO,Reading books,0
+22,1,3,Smartphone,1,0,9,3,0,3,Increased,NO,Listening to music,0
+14,5,3,Tablet,3,1,6,4,0,2,Increased,YES,Listening to music,0
+19,3,5,Smartphone,0,1,6,4,1,3,Remain Constant,NO,Listening to music,0
+21,3,3,Smartphone,2,1,8,6,3,2,Remain Constant,NO,Painting,0
+32,2,3,Smartphone,2,1,6,1,0,1,Remain Constant,NO,Listening to music,0
+14,9,4,Smartphone,2,1,9,1,0,2,Remain Constant,NO,Online gaming,1
+34,3,3,Smartphone,6,0,6,1,1,3,Remain Constant,NO,Listening to music,0
+21,1,4,Laptop/Desktop,3,1,10,3,1,3,Increased,NO,Social Media,0
+13,5,1,Smartphone,1,0.6,7,4,2,4,Decreased,NO,Listening to music,0
+23,2,1,Smartphone,2,1,6,3,0,3,Increased,NO,Listening to music,0
+13,4,4,Laptop/Desktop,2,0,10,3,0,4,Remain Constant,NO,Online gaming,1
+22,4,3,Laptop/Desktop,3,1,7,1,2,3,Decreased,NO,Online gaming,1
+9,5,5,Smartphone or Laptop/Desktop,2,0.6,7,1,0,4,Remain Constant,NO,Online gaming,1
+14,5,3,Tablet,1,1,9,1,4,3,Increased,NO,Online gaming,1
+10,5,3,Laptop/Desktop,2,1,9,1.5,1,4,Increased,NO,Online gaming,1
+21,5,3,Laptop/Desktop,2,0,10,2,0.5,3,Increased,NO,Listening to music,0
+23,2,3,Laptop/Desktop,6,2,7,4,2,4,Remain Constant,NO,Online surfing,0
+19,5,3,Laptop/Desktop,2,0.5,8,2,1,3,Increased,NO,Listening to music,0
+20,3,3,Smartphone,2,0,8,1,1,3,Remain Constant,NO,Meditation,0
+39,2,5,Tablet,1,1,7,1,0.5,3,Remain Constant,NO,Cooking,0
+19,5,3,Smartphone,6,2,5,4,0,3,Remain Constant,NO,Scrolling through social media,0
+19,7,3,Laptop/Desktop,1,1,5,6,1,3,Remain Constant,NO,Dancing,0
+21,6,3,Laptop/Desktop,2,1,8,5,2,2,Increased,NO,Reading books,0
+21,1,4,Smartphone,5,0,7,2,2,2,Remain Constant,NO,Dancing,0
+20,4,3,Laptop/Desktop,1,1,10,5,0.3,3,Decreased,NO,Online surfing,0
+29,10,4,Laptop/Desktop,7,1,6,7,2,2,Remain Constant,NO,Web Series,0
+20,5,4,Laptop/Desktop,1,1,8,1,1,4,Decreased,NO,Listening to music,0
+23,0,4,Laptop/Desktop,0,0,8,3,0,1,Remain Constant,NO,Social Media,0
+24,0,1,Smartphone,1,0,5,4,6,3,Decreased,YES,Scrolling through social media,0
+21,2,1,Smartphone,3,0,8,4,1,3,Remain Constant,NO,Watching web series,0
+21,5,3,Smartphone,3,1,11,3,2,3,Remain Constant,NO,Cooking,0
+33,3,3,Smartphone,1,0,6,1,4,2,Decreased,YES,Sleeping,0
+27,1,3,Laptop/Desktop,2,0,8,3,2,3,Increased,NO,Cooking,0
+19,5,1,Smartphone,2,0,7,3,0,3,Increased,NO,Scrolling through social media,0
+23,4,1,Laptop/Desktop,1,0,7,8,2,3,Decreased,NO,Online surfing,0
+21,7,4,Any Gadget,7,0,10,3,0,3,Remain Constant,NO,Sleeping,0
+19,8,1,Laptop/Desktop,2,1,6,2,0,3,Remain Constant,NO,Sleeping,0
+19,5,1,Smartphone,2,0,6,3,0,1,Increased,NO,Online gaming,1
+34,1,4,Smartphone,3,0.5,7,0,1,1,Remain Constant,NO,Listening to music,0
+21,3,1,Laptop/Desktop,2,0,8,6,5,4,Increased,NO,Listening to music,0
+26,1,3,Smartphone,3,1,8,4,0,3,Decreased,YES,Watching web series,0
+14,2,4,Smartphone,2,1,8,3,1,3,Increased,NO,Sleeping,0
+20,6,3,Laptop/Desktop,2,1,8,2,1,3,Remain Constant,NO,Sleeping,0
+19,4,3,Laptop/Desktop,3,2,7,4,0,3,Decreased,NO,Online gaming,1
+21,2,1,Smartphone,4,0,8,1,2,3,Increased,YES,Listening to music,0
+20,2,3,Smartphone,3,0,12,7,1.5,4,Decreased,YES,Scrolling through social media,0
+16,5,1,Smartphone,1,0,10,3,0,2,Decreased,NO,Scrolling through social media,0
+28,3,4,Laptop/Desktop,2,1,8,4,1,3,Remain Constant,NO,Reading,0
+22,5,3,Smartphone,4,1,8,2,1,2,Decreased,NO,Listening to music,0
+22,6,1,Laptop/Desktop,4,0,8,2,0.5,4,Increased,NO,Sleeping,0
+31,4,4,Laptop/Desktop,3,2,9,2,0,2,Decreased,NO,Talking,0
+20,4,1,Smartphone,4,0,8,1,0,3,Remain Constant,NO,Meditation,0
+36,5,4,Laptop/Desktop,4,1,5,1,1,2,Remain Constant,NO,Reading,0
+20,8,3,Laptop/Desktop,5,1,5,3,0.5,3,Remain Constant,NO,Listening to music,0
+21,5,3,Laptop/Desktop,2,0,9,1,2,3,Remain Constant,NO,Listening to music,0
+19,10,3,Laptop/Desktop,3,1,5,1,0.5,4,Remain Constant,NO,Reading books,0
+20,7,1,Laptop/Desktop,4,0,7,2,1,3,Remain Constant,NO,Online gaming,1
+20,3,2,Smartphone,2,0,7,3,1,2,Decreased,YES,Watching web series,0
+17,7,1,Smartphone,2,1,6,3,1,3,Increased,NO,Watching web series,0
+21,3,1,Smartphone,4,1,5,2,0,3,Remain Constant,NO,Sleeping,0
+20,4,3,Smartphone,3,1,7,1,1,2,Increased,NO,Meditation,0
+19,2,3,Laptop/Desktop,2,1,9,2,1,4,Remain Constant,NO,Listening to music,0
+20,4,3,Smartphone,5,1,7,0.5,0,3,Decreased,NO,Listening to music,0
+17,1,1,Smartphone,2,0,7,2,1,3,Increased,YES,Dancing,0
+33,4,3,Laptop/Desktop,1,0,7,1,NA,4,Increased,NO,Cooking,0
+22,5,3,Smartphone,3,0,8,3,0,3,Remain Constant,NO,Both listining music and scrolling down social media,0
+37,2,4,Laptop/Desktop,1,1,7,0.5,1,2,Remain Constant,NO,Listening to music,0
+20,6,3,Laptop/Desktop,2,2,7,3,1,4,Decreased,NO,Meditation,0
+21,3,3,Smartphone,2,2,7,1,3,2,Remain Constant,NO,Workout and listening music,0
+20,4,1,Smartphone,5,1,10,3,0,2,Remain Constant,NO,Listening to music,0
+33,2,1,Laptop/Desktop,1,1,7,1,0,3,Remain Constant,YES,Online surfing,0
+20,5,3,Smartphone,5,1,6,2,1,3,Increased,NO,Listening to music,0
+21,4,3,Smartphone,2,2,12,2,0,2,Decreased,NO,Online surfing,0
+21,4,1,Smartphone,1,1,7,2,0,4,Increased,NO,Scrolling through social media,0
+21,4,1,Smartphone,6,0,9,2,0,2,Remain Constant,NO,Listening to music,0
+21,3,1,Laptop/Desktop,1,0,8,1,0,3,Increased,NO,Listening to music,0
+21,3,1,Laptop/Desktop,2,1,8,0.75,1,3,Remain Constant,NO,Listening to music,0
+22,5,3,Smartphone,4,1,6,2,2,3,Increased,NO,Listening to music,0
+20,4,3,Smartphone,1,0,6,10,2,1,Remain Constant,NO,Online surfing,0
+20,8,1,Laptop/Desktop,2,0,6,2,3,3,Decreased,NO,Listening to music,0
+21,2,1,Laptop/Desktop,12,1,9,5,1,3,Increased,NO,Online gaming,1
+20,2,3,Laptop/Desktop,2,0,7,2,1,3,Increased,NO,Scrolling through social media,0
+27,3,4,Laptop/Desktop,2,1,8,2,0.5,4,Decreased,YES,Web Series,0
+38,4,1,Laptop/Desktop,3,1,6,2,2,3,Remain Constant,NO,Sleeping,0
+21,4,1,Laptop/Desktop,2,0,10,2,0,3,Increased,NO,Listening to music,0
+20,5,1,Laptop/Desktop,1,0,8,1,0.5,2,Remain Constant,NO,Listening to music,0
+22,2,5,Laptop/Desktop,3,1,8,2,1,3,Decreased,NO,Online surfing,0
+20,5,3,Laptop/Desktop,4,1,8,2,1,3,Remain Constant,NO,Listening to music,0
+24,2,3,Smartphone,3,0.5,9,2,0,2,Remain Constant,NO,Sleeping,0
+32,2,3,Laptop/Desktop,3,0,9,2,0.5,3,Increased,NO,Reading books,0
+23,4,4,Laptop/Desktop,2,0.5,7,3,1,3,Remain Constant,NO,Talking,0
+36,4,4,Laptop/Desktop,2,1,10,1,1,3,Increased,NO,Sleeping,0
+20,6,1,Laptop/Desktop,4,1,6,3,0.5,3,Remain Constant,NO,Watching web series,0
+22,3,4,Smartphone,3,0,12,1,4,2,Remain Constant,NO,Online gaming,1
+19,5,3,Smartphone,6,1,6,0,0,3,Remain Constant,NO,Online surfing,0
+22,4,4,Laptop/Desktop,2,1,8,5,0,3,Remain Constant,NO,Social Media,0
+20,2,1,Smartphone,3,2,8,1,1,3,Increased,NO,Listening to music,0
+40,6,5,Laptop/Desktop,2,1,6,2,2,3,Decreased,NO,Listening to music,0
+21,5,3,Smartphone,6,0,5,2,0,3,Increased,YES,Online gaming,1
+21,3,1,Smartphone,8,1,8,1,0,3,Remain Constant,NO,Meditation,0
+21,4,3,Laptop/Desktop,4,0,6,4,0,3,Remain Constant,NO,Meditation,0
+20,4,3,Laptop/Desktop,5,0.5,8,1,2,3,Increased,NO,Meditation,0
+21,3,1,Laptop/Desktop,5,0,7,1,0,4,Remain Constant,NO,Online gaming,1
+20,4,NA,NA,3,1,7,2,2,4,Remain Constant,NO,Watching web series,0
+20,4,1,Laptop/Desktop,4,0,11,3,0,3,Increased,NO,Watching web series,0
+21,2,1,Smartphone,3,0,8,2,0,2,Increased,YES,Listening to music,0
+21,3,1,Laptop/Desktop,12,0,6,1,0,2,Decreased,YES,Scrolling through social media,0
+21,2,4,Laptop/Desktop,2,2,7,0.5,0,4,Remain Constant,NO,Reading,0
+22,3,1,Laptop/Desktop,5,1,8,3,1,4,Remain Constant,NO,Scrolling through social media,0
+21,0,1,Smartphone,2,3,9,1,1,1,Decreased,YES,Online surfing,0
+22,2,3,Laptop/Desktop,7,1,9,2,0,2,Decreased,NO,Scrolling through social media,0
+18,2,2,Smartphone,1,1,8.5,2,3,3,Remain Constant,NO,Listening to music,0
+21,2,1,Smartphone,0,2,8,4,2,2,Remain Constant,NO,Cooking,0
+22,3,4,Smartphone,2,1,8,2,1,2,Remain Constant,NO,Online gaming,1
+40,1,3,Smartphone,1,1,8,3,2,2,Decreased,NO,Forming,0
+34,2,3,Smartphone,1,1,7,4,2,3,Increased,NO,Scrolling through social media,0
+21,5,3,Smartphone,5,0,5,2,1,2,Remain Constant,NO,Listening to music,0
+21,3,1,Smartphone,2,2,7,3,3,2,Remain Constant,NO,Listening to music,0
+23,1,2,Smartphone,2,1,8,2,2,2,Increased,YES,Meditation,0
+40,5,3,Smartphone,2,1,8,4,6,3,Remain Constant,NO,Scrolling through social media,0
+22,0,3,Smartphone,0,0,10,5,4,2,Remain Constant,NO,Drawing,0
+20,0,1,Smartphone,1,0,10,4,1,3,Increased,NO,Online gaming,1
+14,5,4,Laptop/Desktop,4,0,8,2,2,3,Increased,NO,Sleeping,0
+22,0,1,Smartphone,4,1,8,0,0,4,Remain Constant,YES,"Painting,. Sewing",0
+20,5,4,Smartphone,3,0,7,2,2,4,Remain Constant,NO,Online gaming,1
+26,3,1,Laptop/Desktop,2,1,8,1,0,4,Increased,NO,Listening to music,0
+23,3,2,Smartphone,4,0,9,3,0,2,Increased,NO,Watching web series,0
+20,2,1,Smartphone,1,0.5,8,2,5,3,Remain Constant,NO,Listening to music,0
+40,0,3,Laptop/Desktop,0,1,10,2,1,3,Increased,NO,Watching web series,0
+24,0,3,Smartphone,1,1,8,1,0,3,Remain Constant,NO,Work,0
+20,3,1,Laptop/Desktop,4,0,9,2,1,4,Increased,NO,Scrolling through social media,0
+21,3,1,Laptop/Desktop,2,0,7,1,0,2,Increased,NO,Scrolling through social media,0
+37,4,4,Laptop/Desktop,5,1,7,4,0,2,Increased,NO,Talking,0
+19,4,1,Smartphone,2,1,8,2,1,3,Remain Constant,NO,Listening to music,0
+19,2,3,Laptop/Desktop,5,0,9,2,0.5,3,Increased,YES,Talking to your relatives,0
+23,5,5,Laptop/Desktop,2,1,8,1,4,3,Remain Constant,YES,Meditation,0
+30,1,4,Smartphone,1,1,7,1,0,4,Remain Constant,NO,Dancing,0
+16,5,1,Laptop/Desktop,4,0.5,8,0.5,0,3,Increased,NO,Reading books,0
+35,4,3,Laptop/Desktop,4,2,10,2,1,3,Remain Constant,NO,Online gaming,1
+19,4,1,Smartphone,0,0,7,1,0,2,Increased,NO,Listening to music,0
+18,0,2,Laptop/Desktop,2,2,7,4,1,3,Remain Constant,NO,Online gaming,1
+40,2,2,Smartphone,3,0,5,1,1,4,Increased,NO,Watching web series,0
+35,3,4,Laptop/Desktop,3,1,7,1,1,3,Remain Constant,NO,Sleeping,0
+20,7,2,Smartphone,2,0,8,3,0,2,Remain Constant,YES,Scrolling through social media,0
+22,1,1,Smartphone,2,1,5,10,0,2,Decreased,NO,Watching web series,0
+18,4,1,Smartphone,1,2,9,2,0.5,2,Decreased,NO,Listening to music,0
+24,5,5,Laptop/Desktop,3,3,8,2,2,3,Remain Constant,NO,By engaging in my work.,0
+40,1,5,Laptop/Desktop,2,1,6.7,1,1,2,Remain Constant,NO,Online surfing,0
+22,3,3,Laptop/Desktop,5,0,8,2,0,2,Remain Constant,YES,Listening to music,0
+20,1,1,Laptop/Desktop,0,0,8,4,0,4,Increased,NO,Listening to music,0
+21,5,3,Laptop/Desktop,1,1,8,2,2,4,Remain Constant,NO,Watching web series,0
+30,4,3,Laptop/Desktop,3,1,7.8,4,2,3,Increased,NO,Watching web series,0
+22,0,NA,NA,2,1,8,2,2,3,Remain Constant,NO,Dancing,0
+20,0.5,1,Smartphone,1,1,8,0.5,2.5,3,Remain Constant,NO,"Sleeping, Online games",0
+12,5,3,Smartphone,2,1,7,0,1,4,Remain Constant,NO,Cooking,0
+21,7,3,Laptop/Desktop,8,0,6,1,1,4,Increased,NO,Listening to music,0
+23,3,3,Laptop/Desktop,2,1,6,3,2,4,Remain Constant,NO,Listening to music,0
+18,2,1,Laptop/Desktop,4,0,8,1.5,0,2,Remain Constant,NO,Watching web series,0
+19,3,3,Smartphone,1,1,6,2,0,3,Decreased,NO,Watching web series,0
+40,5,5,Laptop/Desktop,4,0.5,6,1,2,2,Remain Constant,NO,Talking to your relatives,0
+20,4,4,Laptop/Desktop,1,0,9,2,0,3,Increased,NO,Social Media,0
+40,6,3,Laptop/Desktop,3,0,7,2,2,3,Remain Constant,NO,No able to reduce the stress,0
+21,0,1,Smartphone,0,0,9,4,0,4,Increased,NO,Watching web series,0
+23,5.5,5,Laptop/Desktop,3,1,8,1,0,2,Decreased,NO,Watching web series,0
+21,2,1,Smartphone,2,0,8,1,0,3,Increased,YES,Reading books,0
+19,4,1,Smartphone,2,1,9,7,3,3,Increased,NO,Sleeping,0
+21,1,1,Laptop/Desktop,0,0,9,3,0,3,Remain Constant,NO,Watching web series,0
+21,0.5,1,Smartphone,2,1,9,1,0,3,Increased,NO,Reading books,0
+19,6,1,Smartphone,4,2,6,2,0,4,Decreased,YES,Online gaming,1
+20,4,3,Laptop/Desktop,3,1,9,3,1,2,Increased,NO,Meditation,0
+22,2,3,Laptop/Desktop,5,0.3,8,1,1,3,Increased,YES,Listening to music,0
+21,1,4,Laptop/Desktop,1,2,7,2,0,3,Remain Constant,NO,Listening to music,0
+18,4,4,Smartphone,2,0.5,6,2,0,4,Remain Constant,NO,Online gaming,1
+22,5,4,Laptop/Desktop,3,0,7,2,0,3,Remain Constant,NO,Sleeping,0
+21,1,1,Laptop/Desktop,5,1,11,2,0,3,Increased,NO,workout,0
+20,0,1,Smartphone,5,0,8,1,NA,3,Decreased,YES,I have no problem of stress,0
+21,5,1,Smartphone,4,1,7,1,0,3,Remain Constant,NO,Meditation,0
+19,2,2,Smartphone,2,2,8,3,0,4,Decreased,YES,Gym,0
+22,2,4,Laptop/Desktop,2,1,8,2,0,4,Increased,NO,Web Series,0
+20,4,3,Smartphone,2,0,8,2,4,3,Remain Constant,NO,Sleeping,0
+23,3,4,Laptop/Desktop,5,0,6,1,0,2,Remain Constant,NO,Web Series,0
+19,3,1,Smartphone,2,1,9,5,1,3,Remain Constant,NO,Listening to music,0
+21,2,1,Smartphone,2,1,8,4,1,4,Increased,NO,Scrolling through social media,0
+23,3,4,Laptop/Desktop,2,1,6,1,0,2,Remain Constant,NO,Reading,0
+20,5,4,Laptop/Desktop,4,1,7,3,1,3,Increased,NO,Reading,0
+22,0,NA,NA,0,1,5,4,0,2,Decreased,NO,Watching web series,0
+20,2,3,Smartphone,4,1,8,2,0,3,Increased,NO,Listening to music,0
+22,4,4,Laptop/Desktop,2,1,12,2,2,3,Remain Constant,NO,Talking,0
+20,3,4,Laptop/Desktop,2,1,7,5,2,3,Remain Constant,NO,Reading,0
+23,0,4,Laptop/Desktop,3,0,10,4,1,3,Increased,NO,Online gaming,1
+21,2,3,Smartphone,2,1,8,1,0,3,Remain Constant,NO,Sleeping,0
+19,6,4,Laptop/Desktop,6,0,8,2,0.5,2,Increased,NO,Listening to music,0
+28,3,4,Laptop/Desktop,1,0,10,1,0,2,Increased,NO,Online gaming,1
+19,0,1,Smartphone,2,1,7,4,0,2,Remain Constant,NO,Meditation,0
+20,2,3,Smartphone,1,2,8,4,2,4,Decreased,NO,Reading books,0
+20,4,1,Smartphone,1,1,10,2,1,3,Increased,YES,Dancing,0
+21,4,3,Laptop/Desktop,3,0,8,2,1,3,Decreased,NO,Online gaming,1
+21,1,1,Smartphone,4,1,9,1,1,3,Remain Constant,NO,Watching web series,0
+20,2,1,Smartphone,2,0,9,10,1,2,Decreased,NO,Online gaming,1
+19,4,3,Smartphone,5,1,8,2,1,3,Remain Constant,NO,Meditation,0
+15,4,4,Smartphone,4,1,4,3,2,3,Remain Constant,NO,Sleeping,0
+18,2,3,Laptop/Desktop,3,1,8,2,3,3,Increased,NO,Online surfing,0
+22,1,1,Smartphone,4,0.25,10,1,0,3,Remain Constant,NO,Sleeping,0
+20,0,1,Laptop/Desktop,6,0,9,1,1,3,Increased,NO,Sleeping,0
+29,2,3,Laptop/Desktop,2,1,8,0,0,2,Remain Constant,NO,Reading books,0
+23,0,3,Laptop/Desktop,1,1,9,3,0,3,Increased,NO,Listening to music,0
+20,2,1,Smartphone,6,1,5,4,0.5,1,Increased,YES,Listening to music,0
+20,5,1,Laptop/Desktop,2,3,10,1,0.5,2,Decreased,YES,Writing my own Comics & novels,0
+18,3,4,Laptop/Desktop,3,0,10,2,0,2,Increased,NO,Listening to music,0
+17,2,3,Laptop/Desktop,0,0,11,1.5,2,4,Remain Constant,NO,Talking to your relatives,0
+19,3,3,Smartphone,7,1,6,1,1,4,Increased,NO,Talking to your relatives,0
+38,4,5,Laptop/Desktop,5,1,6,1,2,3,Increased,NO,Online gaming,1
+19,2,3,Laptop/Desktop,4,1,6,3,1,4,Increased,NO,Scrolling through social media,0
+21,3,1,Laptop/Desktop,3,0,9,4,0.75,4,Increased,NO,Sleeping,0
+20,1.5,1,Smartphone,2.5,2,9,1,1.5,2,Decreased,YES,Listening to music,0
+19,2,3,Smartphone,2,0,9,5,1,2,Remain Constant,NO,Sleeping,0
+21,3,1,Laptop/Desktop,3,1,8,3,2,2,Increased,NO,Listening to music,0
+17,4,1,Smartphone,1,0,6,2,0,3,Increased,NO,Listening to music,0
+20,5,1,Smartphone,2,2,6,3,2,2,Decreased,NO,Reading books,0
+19,0,4,Tablet,0.5,1,6,2,1,4,Increased,NO,Web Series,0
+17,3,3,Laptop/Desktop,2,0,6,2,0,3,Increased,NO,Online gaming,1
+21,4,3,Laptop/Desktop,4,0,7,2,1,3,Increased,NO,Watching web series,0
+22,2,4,Any Gadget,1.5,1,7,1,2,3,Increased,NO,Web Series,0
+18,7,3,Laptop/Desktop,2,1,8,3,1,3,Decreased,NO,Watching web series,0
+17,7,1,Laptop/Desktop,3,2,6,2,0,4,Remain Constant,NO,Sleeping,0
+19,2,4,Laptop/Desktop,3,1,8,2,1,3,Remain Constant,YES,Reading,0
+18,0,NA,NA,1,1,10,9,2,3,Remain Constant,NO,Listening to music,0
+19,0,3,Smartphone,1,0,8,4,3,3,Increased,NO,Online gaming,1
+23,2,3,Smartphone,5,1,12,1,0,3,Remain Constant,YES,Listening to music,0
+19,2,1,Laptop/Desktop,2,0,12,2,0,2,Decreased,NO,Listening to music,0
+20,2,3,Laptop/Desktop,2,1,9,1,1,3,Remain Constant,NO,Listening to music,0
+18,3,3,Smartphone,1,1,9,4,0.5,4,Remain Constant,NO,Listening to music,0
+19,2,1,Laptop/Desktop,1,2,5,4,1,2,Decreased,NO,Listening to music,0
+22,2,4,Laptop/Desktop,10,1,6,1,0,6,Increased,NO,Listening to music,0
+19,1,3,Laptop/Desktop,2,1,7,3,0,3,Remain Constant,NO,Reading books,0
+20,3,2,Laptop/Desktop,5,1,7,1,0,3,Increased,YES,Watching web series,0
+22,0,3,Laptop/Desktop,6,1,6,1,2,3,Remain Constant,NO,Online gaming,1
+19,1,3,Laptop/Desktop,3,0,10,4,0,3,Decreased,NO,Online surfing,0
+21,3,3,Laptop/Desktop,3,0,9,2,0,8,Increased,NO,Watching web series,0
+20,6,1,Laptop/Desktop,6,1,8,0,1,3,Decreased,NO,Online surfing,0
+20,4,1,Laptop/Desktop,1,2,12,2,2,3,Remain Constant,NO,Listening to music,0
+22,0,1,Laptop/Desktop,1,0,14,2,2,3,Increased,NO,Sleeping,0
+23,3,1,Laptop/Desktop,6,1,7,1.5,0.5,3,Increased,YES,working out and some physical activity,0
+21,4,4,Smartphone,2,1,7,3,0,3,Remain Constant,NO,Listening to music,0
+20,4,1,Smartphone,2,1,6,2,1,3,Increased,NO,I cant de-stress myslef,0
+20,0,1,Laptop/Desktop,2,2,9,2,0.5,3,Decreased,NO,Listening to music,0
+21,7,1,Laptop/Desktop,0,0,8,3,0,3,Remain Constant,NO,Online surfing,0
+22,3,1,Laptop/Desktop,3,0,7,4,0,3,Increased,NO,Listening to music,0
+19,4,2,Laptop/Desktop,5,2,7,0.5,0,4,Remain Constant,YES,Listening to music,0
+21,3,3,Laptop/Desktop,4,1,7,1,2,4,Decreased,NO,Meditation,0
+19,0,3,Laptop/Desktop,3,1,9,2,0,2,Remain Constant,NO,Online gaming,1
+18,2,3,Smartphone,1,1,10,4,1,4,Increased,NO,Online gaming,1
+20,3,4,Laptop/Desktop,3,1,7,2,1,2,Remain Constant,NO,Online gaming,1
+20,0,1,Laptop/Desktop,0,0,10,10,0,3,Increased,NO,Online gaming,1
+22,0,1,Smartphone,0.5,1,10,1,0,3,Increased,NO,Online gaming,1
+21,5,4,Laptop/Desktop,4,2,8,1,0,4,Decreased,YES,Cooking,0
+21,0,1,Laptop/Desktop,4,1,8,1,0,4,Remain Constant,NO,Scrolling through social media,0
+21,3,3,Laptop/Desktop,2,1,7,2,1,3,Decreased,NO,Online surfing,0
+21,3,5,Laptop/Desktop,6.5,0,7,0.5,0,3,Remain Constant,NO,Listening to music,0
+20,6,3,Laptop/Desktop,2,1,8,4,0,2,Remain Constant,NO,Online gaming,1
+22,1,1,Laptop/Desktop,2,1,9,1.5,0.5,3,Remain Constant,YES,Watching web series,0
+19,5,4,Laptop/Desktop,3,0,9,5,1,3,Remain Constant,NO,Online gaming,1
+21,5,1,Smartphone,1,0.5,9,1.5,0,3,Remain Constant,NO,Scrolling through social media,0
+21,4,4,Smartphone,3,1,8,3,3,3,Increased,NO,Online gaming,1
+22,3,3,Laptop/Desktop,3,1,8,3,0,2,Decreased,NO,Dancing,0
+21,2,1,Laptop/Desktop,2,0,6,3,0,3,Remain Constant,NO,Online surfing,0
+30,2,1,Laptop/Desktop,1,1,5,1,0,3,Remain Constant,NO,Talking to your relatives,0
+21,1,3,Smartphone,1,2,8,2,0.5,3,Decreased,NO,Online gaming,1
+22,3,1,Laptop/Desktop,2,0,9,4,1,4,Increased,NO,Online gaming,1
+22,6,3,Smartphone,2,1,11,6,2,4,Increased,YES,Watching web series,0
+20,5,1,Smartphone,2,1,7,1,0,5,Increased,NO,Cardio,0
+20,5,3,Laptop/Desktop,0.5,0,8,1,0.5,3,Remain Constant,NO,Scrolling through social media,0
+20,4,1,Laptop/Desktop,4,1,7,1,2,4,Remain Constant,NO,Sleeping,0
+20,4,1,Smartphone,3,0,8,3,0,3,Remain Constant,NO,Online gaming,1
+21,6,1,Smartphone,4,1,7,2,0,4,Increased,NO,Scrolling through social media,0
+19,2,1,Laptop/Desktop,2,1,9,1,0,2,Decreased,YES,Listening to music,0
+20,0,1,Laptop/Desktop,3,0,8,4,2,4,Increased,YES,Meditation,0
+19,4,1,Smartphone,5,0,6,2,0,3,Increased,NO,Reading books,0
+20,4,3,Laptop/Desktop,2,1,7,1,0,3,Decreased,YES,Exercising,0
+19,0,1,Smartphone,0,0,12,4,6,3,Decreased,NO,Watching web series,0
+19,3,1,Laptop/Desktop,2,1,8,3,0,3,Remain Constant,NO,Dancing,0
+19,5,1,Smartphone,1,1,5,2,4,3,Increased,NO,Listening to music,0
+20,4,4,Laptop/Desktop,6,0,8,3,0,3,Increased,NO,Online gaming,1
+21,0,1,Smartphone,2,0,10,2,0,3,Remain Constant,NO,Watching web series,0
+19,4,3,Laptop/Desktop,4,1,8,0,0,2,Increased,NO,Online gaming,1
+30,4,5,Laptop/Desktop,4,0,5,6,1,2,Remain Constant,NO,Watching web series,0
+17,0.75,4,Smartphone,2,1,12,1,1,3,Increased,NO,Exercise,0
+18,0.75,4,Smartphone,1,1,12,1,1,3,Increased,NO,Exercise,0
+17,0.75,4,Smartphone,2,2,6,1,1,3,Increased,NO,Exercise,0
+28,2,5,NA,2,1,7,1,1,2,Decreased,NO,Scrolling through social media,0
+34,2,4,NA,1,1,9,2,1,3,Increased,NO,Talking,0
+16,0.8,1,NA,1,0,8,1,1,3,Remain Constant,NO,Listening to music,0
+16,2,4,NA,5,1,9,1,1,1,Decreased,NO,Reading,0
+24,0,NA,NA,1,0,8,2,1,3,Increased,NO,Scrolling through social media,0
+25,1,3,Smartphone,2,0,10,1,1,3,Increased,NO,Cooking,0
+43,2,4,Laptop/Desktop,2,1,7,1,1,2,Remain Constant,NO,Sleeping,0
+40,3,3,Smartphone,1,0.5,7,4,1,3,Remain Constant,NO,Talking to your relatives,0
+16,1,4,Smartphone,1,1,7,2,2,2,Remain Constant,NO,Online gaming,1
+15,2,5,Smartphone,5,3,11,1,1,4,Increased,NO,Reading books,0
+21,4,1,Laptop/Desktop,3,0,6,2,0,2,Remain Constant,NO,Online gaming,1
+28,3,4,Laptop/Desktop,4,1,9,2,0,3,Remain Constant,NO,Listening to music,0
+21,2,3,Smartphone,1,1,9,2,2,3,Remain Constant,NO,Watching web series,0
+30,4,3,Laptop/Desktop,3,1,7,1,1,3,Remain Constant,NO,singing,0
+13,4,5,Smartphone,5,1,13,2,3,2,Decreased,YES,Reading books,0
+17,1,4,Smartphone,1,1,8,2,1,3,Increased,NO,Web Series,0
+21,4,3,Laptop/Desktop,4,1,6,1,1,3,Remain Constant,YES,Meditation,0
+22,0,1,Smartphone,1,0,8,5,1.5,3,Remain Constant,NO,Reading books,0
+34,2,3,Laptop/Desktop,2,1,7,4,2,2,Remain Constant,NO,Cooking,0
+32,6,4,Laptop/Desktop,2,1,5,2,2,2,Increased,NO,Dancing,0
+13,3.5,4,Smartphone,2,2,9,1,6,1,Increased,YES,Listening to music,0
+21,2,4,Smartphone,5,0,12,3,NA,4,Remain Constant,NO,Listening to music,0
+20,1,4,Laptop/Desktop,3,1,12,3,2,4,Remain Constant,NO,Reading,0
+21,0,1,Smartphone,3,0,8,4,1,3,Remain Constant,YES,Scrolling through social media,0
+22,1,1,Smartphone,0,0,6,2,2,3,Increased,YES,Watching web series,0
+25,1,3,Laptop/Desktop,4,0.5,9,2,5,3,Increased,NO,Online surfing,0
+17,2,5,Smartphone,3,1,8,1,2,1,Increased,NO,Sleeping,0
+25,6,4,Laptop/Desktop,0,1,7,3,0,2,Increased,NO,Web Series,0
+15,3,1,Smartphone,2,0,10,1,2,2,Increased,NO,Online surfing,0
+22,2,1,Laptop/Desktop,2,0,6,5,0,2,Increased,NO,Online surfing,0
+21,2,3,Laptop/Desktop,0,0,7,5,0,3,Decreased,NO,Online gaming,1
+17,2,5,Smartphone,3,2,10,1,1,2,Increased,NO,Watching web series,0
+18,1,3,Smartphone,2,0,7,1,0,3,Decreased,YES,Cooking,0
+14,4,4,Smartphone,1,1,8,1,0.5,2,Increased,NO,Social Media,0
+19,0,1,Smartphone,4,0,8,4,0,1,Increased,NO,Reading books,0
+22,1,1,Laptop/Desktop,10,2,7,1,0,3,Remain Constant,NO,Writing,0
+21,4,3,Laptop/Desktop,3,0,8,2,1,3,Decreased,NO,Scrolling through social media,0
+21,6,1,Laptop/Desktop,3,0,8,4,1,3,Increased,YES,Listening to music,0
+21,1,1,Laptop/Desktop,8,0,8,2,2,2,Decreased,YES,Scrolling through social media,0
+52,0,4,Laptop/Desktop,2,1,8,2,0,4,Remain Constant,NO,Reading,0
+18,4,3,Laptop/Desktop,2,3,7,4,1,2,Decreased,NO,Online surfing,0
+14,5,3,Smartphone,2,0,9,1,2,2,Remain Constant,NO,Online gaming,1
+32,1,3,Laptop/Desktop,2,0.5,7,3,0,3,Increased,YES,Scrolling through social media,0
+40,5,1,Laptop/Desktop,3,0,6,3,0,3,Increased,YES,Sleeping,0
+20,3,1,Laptop/Desktop,6,1,8,3,1,4,Increased,NO,Online surfing,0
+16,1,3,Smartphone,2,0,10,2,3,4,Remain Constant,NO,Online gaming,1
+17,4,1,Smartphone,2,0,10,3,4,2,Remain Constant,NO,Online surfing,0
+24,6,4,Laptop/Desktop,8,0,9,2,0,3,Decreased,YES,Reading,0
+25,2,4,Laptop/Desktop,3,0,7,2,3,2,Remain Constant,NO,Talking,0
+16,5,4,Laptop/Desktop,8,0.5,6,0.4,0,3,Remain Constant,NO,Online gaming,1
+46,2,1,Smartphone,0.5,0.25,7,1,1,3,Remain Constant,NO,Cooking,0
+24,2,3,Smartphone,1,1,7,4,0,3,Remain Constant,NO,Football,0
+13,4,4,Any Gadget,3,1,9,3,2,2,Decreased,NO,Cooking,0
+36,3,5,Laptop/Desktop,2,0,8,2,0,3,Remain Constant,NO,Reading books,0
+21,2,1,Smartphone,0.5,1,8,1,0,4,Increased,NO,Listening to music,0
+13,6,3,Tablet,3,1,10,1,6,3,Remain Constant,NO,Talking to your relatives,0
+22,0,1,Smartphone,2,1,6,0.5,0,1,Decreased,NO,Talking to your relatives,0
+20,4,1,Smartphone,3,0,8,1,0,1,Increased,NO,Scrolling through social media,0
+14,3,3,Smartphone,2,2,7,2,2,3,Remain Constant,NO,Online gaming,1
+21,3,5,Laptop/Desktop,1,0,11,3,2,1,Remain Constant,NO,Reading books,0
+17,0.75,5,Smartphone,4,1,7,1,0.3,2,Decreased,NO,Sleeping,0
+8,2,5,Laptop/Desktop,1,1,5,1,1,2,Remain Constant,NO,Sleeping,0
+12,6,4,Tablet,4,0,7,1,2,4,Increased,NO,Online gaming,1
+22,4,1,Laptop/Desktop,1,0,9,1,1,4,Remain Constant,NO,Listening to music,0
+25,0,NA,NA,2,1,9,2,1,2,Increased,NO,Listening to music,0
+23,4,1,Smartphone,4,1,8,2,2,2,Increased,NO,Cooking,0
+19,3,5,Laptop/Desktop,0,0,9,6,0,2,Remain Constant,YES,Meditation,0
+19,2,1,Smartphone,2,0,8,1.5,1,2,Decreased,NO,Watching web series,0
+19,2,1,Laptop/Desktop,1,2,8,3,2,4,Increased,NO,Sleeping,0
+18,0,1,Smartphone,0,0,7,3,2,4,Remain Constant,YES,Scrolling through social media,0
+23,0,NA,NA,1,0,9,3,2,2,Remain Constant,NO,Scrolling through social media,0
+18,2,1,Smartphone,0,3,8,1,0,3,Increased,NO,Exercising,0
+19,4,4,Laptop/Desktop,4,2,8,6,6,3,Increased,NO,Meditation,0
+32,2,4,Smartphone,0,0,11,1,3,4,Remain Constant,NO,Meditation,0
+21,8,4,Laptop/Desktop,2,1,7,1,0,3,Remain Constant,NO,Talking,0
+20,8,5,Smartphone,8,1,7,2,1,4,Increased,NO,Watching web series,0
+21,4,3,Laptop/Desktop,4,1,8,3,1,3,Increased,NO,Listening to music,0
+19,2,1,Laptop/Desktop,8,0,8,1,0,4,Decreased,YES,Sleeping,0
+18,3,4,Smartphone,2,0,8,1,1,3,Decreased,NO,Listening to music,0
+20,1,4,Smartphone,3,1,8,3,1,4,Remain Constant,NO,Reading,0
+17,2,3,Smartphone,1,1,8,7,0,4,Increased,NO,Watching web series,0
+21,3,1,Smartphone,1,1,8,2,0,3,Increased,NO,Watching web series,0
+21,3,3,Laptop/Desktop,0,2,8,2,2,3,Increased,NO,Online gaming,1
+13,1,4,Smartphone,1,1,8,1,2,3,Remain Constant,NO,Listening to music,0
+21,0,1,Laptop/Desktop,2,0,10,6,0,2,Remain Constant,NO,Online gaming,1
+26,0.5,1,Smartphone,1,0,6,1,1,3,Decreased,YES,Sleeping,0
+15,4,3,Laptop/Desktop,4,1,11,1,2,5,Remain Constant,NO,Listening to music,0
+22,3,1,Smartphone,2,1,9,1,1,4,Remain Constant,YES,Scrolling through social media,0
+13,2,5,Smartphone,2,1,9,2,1,3,Increased,NO,Scrolling through social media,0
+21,6,3,Laptop/Desktop,2,1,7,1.5,1.5,3,Remain Constant,NO,Watching web series,0
+16,2,1,Smartphone,1,0,9,1,0,3,Decreased,NO,Reading books,0
+15,5,4,Smartphone,2,1,7,0,0,2,Increased,NO,Online gaming,1
+17,4,4,Smartphone,3,3,6,5,NA,4,Decreased,NO,Exercise,0
+21,0,2,Smartphone,8,0,7,2,0.5,3,Remain Constant,YES,Online surfing,0
+16,7,3,Smartphone,4,1,6,1,0,4,Remain Constant,NO,Listening to music,0
+24,2,3,Smartphone,2,0,6,3,0,2,Decreased,NO,Sleeping,0
+19,2,3,Smartphone,0,0,8,10,1,2,Decreased,NO,Online gaming,1
+15,1,4,Smartphone,2,1,8,1,2,2,Increased,NO,Meditation,0
+18,4,1,Tablet,4,0,9,2,2,3,Remain Constant,NO,Watching web series,0
+20,5,1,Laptop/Desktop,2,0,8,1,2,3,Remain Constant,NO,Online surfing,0
+21,1,2,Smartphone,4,1,8,4,0,3,Remain Constant,NO,Online surfing,0
+22,3,3,Laptop/Desktop,6,1,6,3,2,3,Remain Constant,NO,Sleeping,0
+20,1,1,Tablet,2,3,8,2,2,2,Decreased,NO,Reading books,0
+44,3,3,Smartphone,4,0,6,1,1,2,Remain Constant,NO,Reading books,0
+19,2,5,Smartphone,2,1,10,2,1,2,Remain Constant,NO,Sleeping,0
+20,5,1,Laptop/Desktop,6,1,7,2,0,3,Remain Constant,NO,Watching web series,0
+14,3,4,Smartphone or Laptop/Desktop,2,0,6,1,1,1,Increased,NO,Listening to music,0
+21,4,1,Laptop/Desktop,2,2,8,4,4,3,Decreased,NO,Watching web series,0
+20,6,2,Laptop/Desktop,2,2,8,1,0,3,Decreased,NO,Listening to music,0
+22,3,3,Laptop/Desktop,6,2,8,4,1,4,Remain Constant,NO,Cooking,0
+20,0,1,Laptop/Desktop,1,1,7,0.5,0.5,3,Increased,NO,Reading books,0
+26,2,1,Laptop/Desktop,1,1,8,4,0,3,Decreased,NO,Scrolling through social media,0
+17,6,3,Smartphone,4,0,7,9,0.5,2,Increased,NO,Scrolling through social media,0
+24,0,NA,NA,1,0,10,6,3,4,Increased,NO,Listening to music,0
+19,2,1,Laptop/Desktop,0,1,12,2,1,3,Decreased,YES,Listening to music,0
+15,4,1,Smartphone,4,0,7,1,2,3,Increased,NO,Listening to music,0
+34,2,3,Laptop/Desktop,1,0,7,6,6,3,Remain Constant,NO,Listening to music,0
+21,1,3,Laptop/Desktop,8,2,8,2,1,3,Remain Constant,YES,Online gaming,1
+19,0,1,Smartphone,0,1,10,7,1,3,Increased,YES,Online gaming,1
+17,3,3,Smartphone,3,3,9,2,0,3,Increased,NO,Online gaming,1
+19,0,1,Laptop/Desktop,1,0,9,6,0,4,Increased,NO,Sleeping,0
+20,4,3,Laptop/Desktop,3,0,8,4,2,4,Increased,NO,Listening to music,0
+18,3,4,Laptop/Desktop,4,2,7,2,2,3,Increased,NO,Dancing,0
+20,6,4,Laptop/Desktop,5,2,6,10,15,3,Remain Constant,NO,Talking,0
+19,4,1,Laptop/Desktop,5,0,8,3,2,3,Increased,NO,Watching web series,0
+17,1,3,Smartphone,2,0,8,1,1,2,Decreased,NO,Talking to your relatives,0
+17,2,5,Smartphone,3,1,8,3,1,2,Increased,NO,Listening to music,0
+11,1,4,Laptop/Desktop,1,1,15,3,1,4,Increased,NO,Listening to music,0
+17,2,3,Smartphone,5,3,5,1,0.5,3,Decreased,NO,Running,0
+20,2,3,Laptop/Desktop,3,0,7,5,6,2,Increased,NO,Online gaming,1
+13,2,5,Smartphone,2,1,6,6,8,4,Increased,NO,Online gaming,1
+19,4,1,Laptop/Desktop,3,2,8,2,1,4,Remain Constant,NO,Online gaming,1
+21,0,3,Smartphone,4,1,7,2,4,4,Increased,NO,Online gaming,1
+20,0,3,Laptop/Desktop,1,1,8,4,0,3,Increased,NO,Sleeping,0
+20,0,2,Laptop/Desktop,2,0,10,4,0,3,Increased,NO,Online gaming,1
+20,4,3,Laptop/Desktop,0,0,12,2,2,3,Increased,NO,Scrolling through social media,0
+22,1,1,Smartphone,2,1,6,2,0,3,Increased,NO,Online surfing,0
+20,2,1,Laptop/Desktop,3,0,11,1,1,3,Remain Constant,NO,Sleeping,0
+21,4,1,Laptop/Desktop,2,0,6,1,0,3,Increased,NO,Online surfing,0
+10,4,3,Smartphone,2,1,8,1,2,3,Remain Constant,NO,Dancing,0
+13,3,3,Smartphone,2,1,7,2,0,3,Decreased,NO,Dancing,0
+19,3,1,Laptop/Desktop,2,1,6,2,0,3,Increased,NO,Online gaming,1
+21,4,3,Laptop/Desktop,1,0,10,2,0,3,Increased,NO,Online gaming,1
+22,0.5,1,Laptop/Desktop,1,1,8,3,0,4,Increased,NO,Online gaming,1
+19,0,NA,NA,8,1,8,0,0,2,Remain Constant,NO,Online surfing,0
+20,0.5,1,Smartphone,3,1,10,3,2,2,Increased,YES,Scrolling through social media,0
+20,7,1,Laptop/Desktop,0,1,6,2,1,4,Remain Constant,NO,Online gaming,1
+22,5,1,Smartphone,0,1,8,4,0,3,Remain Constant,NO,Online surfing,0
+20,3,1,Laptop/Desktop,6,2,5,3,0,3,Remain Constant,NO,I run,0
+21,5,3,Laptop/Desktop,6,0,7,2,0.5,3,Increased,NO,Online surfing,0
+24,5,3,Laptop/Desktop,2,0,6,3,0,4,Increased,NO,Watching web series,0
+20,2,3,Smartphone,2,0,12,4,0,3,Remain Constant,NO,Talking to your relatives,0
+20,4,1,Laptop/Desktop,4,0,8,2,0,1,Remain Constant,NO,Reading books,0
+24,2,2,Smartphone,6,0,6,3,0.5,4,Decreased,NO,Listening to music,0
+21,3,3,Laptop/Desktop,7,3,6,1,0,3,Remain Constant,NO,Meditation,0
+22,2,3,Laptop/Desktop,2,0,8,1,1,3,Remain Constant,YES,Reading books,0
+19,0,3,Laptop/Desktop,1,0.5,8,1,0,3,Increased,NO,Scrolling through social media,0
+19,2,1,Laptop/Desktop,3,0,7,3,2,2,Increased,NO,Online surfing,0
+21,6,5,Laptop/Desktop,6,1,6,1,0,4,Decreased,NO,Driving,0
+18,6,1,Laptop/Desktop,6,1,6,1,0.5,5,Remain Constant,YES,Listening to music,0
+21,4,1,Tablet,0,3,11,10,0,1,Decreased,NO,Meditation,0
+18,4,3,Smartphone,1,0,9,4,1,3,Decreased,YES,Online gaming,1
+20,4,1,Laptop/Desktop,2,1,8,2,0,3,Increased,NO,Dancing,0
+19,4,1,Laptop/Desktop,3,1,8,3,2,3,Increased,NO,Meditation,0
+20,4,1,Smartphone,4,0,8,4,3,3,Remain Constant,NO,Online gaming,1
+20,5,1,Laptop/Desktop,2,0,13,4,0,2,Increased,NO,Scrolling through social media,0
+23,4,1,Laptop/Desktop,10,1,7,1,0,2,Decreased,NO,Listening to music,0
+21,2,3,Laptop/Desktop,0,1,7,3,0,2,Remain Constant,NO,Online gaming,1
+7,2,4,Smartphone,2,1,9,1,2,3,Increased,NO,Online gaming,1
+19,0,4,Laptop/Desktop,3,1,8,3,1,3,Increased,NO,Social Media,0
+19,4,3,Laptop/Desktop,0,0,8,6,1,3,Increased,NO,Online gaming,1
+20,4,1,Laptop/Desktop,5,1,9,2,0,4,Increased,NO,Listening to music,0
+20,0,1,Laptop/Desktop,10,4,6,2,0,7,Decreased,NO,Listening to music,0
+20,5,4,Laptop/Desktop,7,0,6,1,0,4,Increased,NO,Web Series,0
+21,2,1,NA,1,0,13,6,7,2,Decreased,YES,Listening to music,0
+21,2,4,NA,6,0,6.5,0.5,0,3,Increased,NO,Web Series,0
+21,1,1,NA,0,0,8,2,1,3,Remain Constant,NO,Talking to your relatives,0
+22,1,3,NA,3,3,8,3,3,4,Increased,NO,Sleeping,0
+13,4,4,NA,2,2,8,2,2,2,Decreased,NO,Cooking,0
+21,2,3,NA,4,1,10,8,1,3,Increased,NO,Scrolling through social media,0
+18,2,4,NA,3,1,7,2,1,3,Remain Constant,YES,Online gaming,1
+30,0,NA,NA,0.5,0,7,1,0.5,2,Remain Constant,NO,Online gaming,1
+18,4,1,Smartphone,2,1,12,2,0,3,Remain Constant,NO,Listening to music,0
+19,0,1,Smartphone,5,0.5,7,4,0,3,Remain Constant,NO,Reading books,0
+20,7,4,Laptop/Desktop,2,0,8,4,3,4,Increased,NO,Social Media,0
+21,2,3,Laptop/Desktop,4,1,8,8,1,2,Increased,NO,Scrolling through social media,0
+23,6,3,Laptop/Desktop,4,1,9,1,0,4,Remain Constant,NO,Listening to music,0
+21,0,2,Laptop/Desktop,9,0,7,2,0,3,Remain Constant,NO,Listening to music,0
+20,4,1,Laptop/Desktop,6,0,8,0,0,2,Remain Constant,NO,Reading books,0
+16,0,4,Smartphone,0,2,6,1,4,2,Remain Constant,NO,Online gaming,1
+45,3,5,Laptop/Desktop,4,1,8,2,1,3,Increased,NO,Meditation,0
+35,4,3,Smartphone,2,1,6,0.5,1,2,Remain Constant,NO,Online surfing,0
+16,6,4,Smartphone,3,1,6,1,1,1,Decreased,NO,Talking,0
+13,3,4,Smartphone,3,1,8,1,0.5,2,Increased,NO,Online gaming,1
+13,0.75,5,Smartphone,2,0,7,1,0,1,Remain Constant,NO,Reading books,0
+22,3,3,Laptop/Desktop,2,0,7,3,0,3,Increased,NO,Reading books,0
+20,0,1,Laptop/Desktop,2,0,7,5,0,2,Decreased,YES,Listening to music,0
+14,3,5,Laptop/Desktop,5,2,10,3,3,3,Decreased,NO,Listening to music,0
+21,0,1,Laptop/Desktop,2,1,7,2,7,3,Increased,NO,Watching web series,0
+20,3,1,Laptop/Desktop,4,1,8,2,0,3,Remain Constant,NO,Reading books,0
+13,2,4,Smartphone,1,0,11,2,3,2,Increased,YES,Social Media,0
+16,2,1,Laptop/Desktop,2,1,9,2,0.5,2,Remain Constant,YES,Listening to music,0
+20,0.7,1,Laptop/Desktop,3.5,0.5,8,3,0.6,4,Increased,NO,Reading books,0
+50,2,4,Smartphone,2,0,6,2,1,3,Remain Constant,NO,Listening to music,0
+18,1,5,Smartphone,2,1,8,1,0,2,Remain Constant,NO,Online gaming,1
+14,7,1,Tablet,3,0,8,0,1,2,Decreased,NO,Sleeping,0
+18,3,1,Smartphone,2,0,8,2,0.5,3,Remain Constant,NO,Scrolling through social media,0
+19,3,1,Laptop/Desktop,1,0,5,1,2,3,Increased,NO,Watching web series,0
+19,1,1,Laptop/Desktop,0,1,9,8,0,3,Remain Constant,NO,Online gaming,1
+15,5,3,Laptop/Desktop,3,1,10,3,1,4,Remain Constant,NO,Listening to music,0
+21,2,3,Laptop/Desktop,2,1,8,2,2,3,Remain Constant,YES,Watching web series,0
+21,2,1,Laptop/Desktop,0,1,12,5,5,4,Remain Constant,NO,Listening to music,0
+28,4,4,Laptop/Desktop,4,1,12,2,0,3,Decreased,NO,Social Media,0
+32,1,3,Smartphone,0,0,14,2,2,3,Remain Constant,NO,Watching web series,0
+20,2,3,Laptop/Desktop,3,2,7,3,1,2,Decreased,NO,Talking to your relatives,0
+21,0,1,Laptop/Desktop,1,0,6,6,1,3,Remain Constant,YES,Scrolling through social media,0
+12,1,5,Smartphone,3,1,6,1,1,1,Remain Constant,NO,Cooking,0
+20,3,1,Laptop/Desktop,0,1,9,4,4,4,Decreased,NO,Sleeping,0
+22,1,1,Smartphone,3,0,7,3,2,3,Remain Constant,NO,Watching web series,0
+20,2,3,Laptop/Desktop,2,2,8,3,0,3,Remain Constant,NO,Watching web series,0
+24,0,5,Laptop/Desktop,3,1,8,3,0,3,Decreased,NO,Online gaming,1
+19,8,5,Laptop/Desktop,10,1,6,1,0,4,Remain Constant,NO,Online gaming,1
+12,2,3,Laptop/Desktop,1,1,7,2,2,2,Increased,NO,Sleeping,0
+20,2,3,Laptop/Desktop,1,1,7,1,1,2,Remain Constant,NO,Watching web series,0
+8,2,5,Laptop/Desktop,2,1,8,1,2,3,Remain Constant,NO,Dancing,0
+36,2,5,Tablet,3,1,7,5,3,3,Increased,NO,Online gaming,1
+14,5,3,Smartphone,1,1,7,1,4.5,2,Decreased,NO,Watching web series,0
+9,1,3,Laptop/Desktop,1,0,8,0,1,3,Increased,NO,Listening to music,0
+14,1,4,Smartphone,3,1,9,1,0,3,Increased,NO,Online gaming,1
+27,3,5,Laptop/Desktop,2,2,7,1,0,3,Decreased,YES,Listening to music,0
+17,4,3,Smartphone,1,1,8,5,0.3,2,Increased,NO,Online gaming,1
+20,5,1,Laptop/Desktop,3,1,7,4,0,3,Decreased,NO,Listening to music,0
+20,1,4,Laptop/Desktop,0,1,7,2,0,3,Decreased,NO,Web Series,0
+27,0,4,Laptop/Desktop,2,0,10,6,6,3,Decreased,NO,Online gaming,1
+20,2,1,Laptop/Desktop,4,1,8,2,0,3,Remain Constant,NO,Meditation,0
+13,1,4,Smartphone,2,1,8,3,0.5,3,Remain Constant,NO,Online gaming,1
+13,2,5,Smartphone,1,1,6,2,0,1,Decreased,YES,Reading books,0
+17,7,5,Smartphone,1,1,4,1,0,1,Decreased,NO,Cooking,0
+20,1,1,Laptop/Desktop,1,0,12,2,1,3,Increased,NO,Listening to music,0
+17,2,4,Smartphone,1,1,8,3,2,3,Decreased,NO,Online gaming,1
+14,3,5,Smartphone,2,0,10,1,1,2,Remain Constant,NO,Listening to music,0
+20,0,4,Laptop/Desktop,4,1,7,4,2,3,Remain Constant,YES,Web Series,0
+13,3,5,Smartphone,2,0,8,1,0,3,Remain Constant,NO,Listening to music,0
+16,2,5,Smartphone,5,1,8,4,4,3,Increased,NO,Online gaming,1
+20,4,4,Laptop/Desktop,2,0,11,1,0,3,Increased,NO,Listening to music,0
+19,0.75,2,Laptop/Desktop,2,1,6,4,0,2,Remain Constant,NO,"Netflix, Friends and Books",0
+20,3,1,Laptop/Desktop,4,1,8,2,0.5,4,Remain Constant,NO,Cooking,0
+20,1,3,Laptop/Desktop,4,0,8,3,0,3,Remain Constant,NO,Watching web series,0
+17,5,3,Smartphone,3,1,6,1,2,1,Remain Constant,NO,Online gaming,1
+20,1,3,Laptop/Desktop,2,2,9,4,5,2,Remain Constant,NO,Listening to music,0
+18,1,3,Laptop/Desktop,1,0,8,4,0,3,Decreased,NO,Watching web series,0
+17,2,5,Smartphone,3,1,6,2,2,1,Increased,NO,Talking to your relatives,0
+12,2,5,Smartphone,2,1,10,1,1,4,Remain Constant,NO,Reading books,0
+23,3,4,Smartphone,1,0,6,2,3,3,Remain Constant,NO,Listening to music,0
+21,4,1,NA,3,1,6,2,5,2,Remain Constant,NO,Meditation,0
+40,4,3,NA,4,0,8,2,1,3,Increased,NO,Listening to music,0
+22,0,3,NA,0,0,9,2,2,3,Remain Constant,NO,Talking to friends,0
+14,4,3,NA,2,1,8,2,1,3,Remain Constant,NO,Listening to music,0
+12,1,3,NA,1,0,12,1,1,1,Remain Constant,NO,Reading books,0
+14,3,5,NA,2,0,12,2,3,1,Decreased,NO,Online gaming,1
+40,2,4,NA,1,1,8,1,1,2,Remain Constant,NO,Web Series,0
+28,0,NA,NA,4,2,7,2,2,2,Decreased,NO,Meditation,0
+20,3,4,Smartphone,4,2,7,4,0.5,4,Remain Constant,YES,Talking,0
+42,4,4,Laptop/Desktop,3,0,7,1,0.5,2,Increased,NO,Social Media,0
+21,3,3,Laptop/Desktop,3,0,8,2,0,4,Decreased,NO,Sleep,0
+12,1,4,Smartphone,2,0.5,8,2,2,4,Remain Constant,NO,Listening to music,0
+20,3,1,Laptop/Desktop,2,1,8,4,0,3,Remain Constant,YES,Listening to music,0
+12,1,5,Smartphone,1.2,0.5,10,0,2,3,Increased,NO,Talking to your relatives,0
+40,1,3,Laptop/Desktop,2,1,6,4,0,2,Remain Constant,NO,Online surfing,0
+14,2,5,Smartphone,1,1,8,1,2,1,Increased,YES,Online gaming,1
+13,0.5,3,Smartphone,2,2,10,2,0,3,Increased,NO,Online gaming,1
+20,1,3,Laptop/Desktop,2.5,0,6,4,1,3,Remain Constant,NO,Online gaming,1
+13,1,5,Smartphone,2,0,8,0,4,3,Increased,NO,Watching web series,0
+23,3,4,Laptop/Desktop,3,0,7,2,0,3,Remain Constant,NO,Cooking,0
+17,6,3,Laptop/Desktop,2.5,1,6,0,0.5,3,Remain Constant,NO,Reading books,0
+21,3,3,Laptop/Desktop,0,1,8,3,0,3,Increased,YES,Listening to music,0
+13,1,5,Smartphone,5,3,6,2,2,7,Increased,NO,Exercise,0
+23,5,5,Smartphone,1,1,9,2,0,4,Decreased,NO,Online gaming,1
+31,4,5,Laptop/Desktop,2,1,8,1,1,3,Increased,NO,Sleep,0
+21,6,1,Smartphone,0,1,7,4,1,4,Increased,NO,Listening to music,0
+23,0,3,Laptop/Desktop,2,0,7,3,0,3,Remain Constant,NO,Listening to music,0
+13,2,5,Smartphone,1,3,11,3,2,4,Increased,NO,Reading books,0
+16,4,3,Smartphone,5,1,6,2,2,2,Remain Constant,NO,Dancing,0
+14,2.5,4,Smartphone,1,0.5,6,2,1,2,Decreased,NO,Cooking,0
+17,7,3,Laptop/Desktop,8,1,6,1,1,3,Increased,NO,Listening to music,0
+16,1,3,Smartphone,2,1,7,2,3,3,Remain Constant,NO,Listening to music,0
+12,1,5,Smartphone,2,1,9,2,1,3,Increased,NO,Online gaming,1
+17,0.75,3,Smartphone,5,1,6,2,2,1,Increased,YES,Reading books,0
+34,2,3,Laptop/Desktop,3,1,7,2,1,3,Remain Constant,NO,Sleep,0
+15,5,3,Smartphone,3,3,8,3,2,3,Remain Constant,NO,Online gaming,1
+21,3,3,Laptop/Desktop,3,1,8,2,0,3,Increased,NO,Watching web series,0
+24,0.5,3,NA,2,0,8,1,0,3,Remain Constant,NO,Watching web series,0
+11,4,3,NA,2,2,10,1,3,4,Remain Constant,NO,Playing,0
+18,1.5,3,NA,2,1,8,1,0.5,2,Remain Constant,NO,Meditation,0
+19,2,1,NA,1,1,11,3,0,2,Increased,NO,Listening to music,0
+14,5,4,NA,2,1,9,1,1,4,Increased,NO,Talking,0
+21,2,1,NA,4,0,9,2,0,4,Remain Constant,NO,Sleep,0
+16,4,3,NA,4,1,6,1,1,3,Increased,NO,Listening to music,0
+22,0,NA,NA,5,1,7,2,1,4,Increased,NO,Watching web series,0
+15,3,4,Laptop/Desktop,3,1,7,1,2,2,Increased,NO,Sleeping,0
+32,1,1,Laptop/Desktop,10,1,8,2,0,3,Increased,NO,Reading books,0
+15,4,1,Tablet,10,0,8,1,1,3,Remain Constant,NO,Listening to music,0
+43,2,3,Smartphone,0,1,6,2,0.5,3,Increased,NO,Talk with childhood friends.,0
+16,8,3,Laptop/Desktop,6,0,6,1,0,4,Remain Constant,NO,Watching web series,0
+18,4,3,Smartphone,1,1,12,1,1,2,Increased,NO,Watching web series,0
+19,2,3,Smartphone,2.5,0,9,2,1,3,Remain Constant,NO,Online surfing,0
+22,1,3,Laptop/Desktop,2,0,11,3,3,2,Increased,YES,Dancing,0
+14,5,3,Smartphone,2.3,0,8,2,3,2,Remain Constant,NO,Scrolling through social media,0
+21,2,3,Laptop/Desktop,2,0,8,2,1,3,Remain Constant,YES,Reading books,0
+19,1,1,Laptop/Desktop,0,0,12,10,2,2,Remain Constant,NO,Online gaming,1
+21,2,3,Smartphone,2,1,7,1,4,3,Remain Constant,NO,Online surfing,0
+21,0,1,Laptop/Desktop,2,1,7,1,0,4,Remain Constant,YES,Listening to music,0
+20,6,3,Laptop/Desktop,4,0,7,1,0,3,Increased,NO,Cooking,0
+21,5,3,Laptop/Desktop,2,0,8,0.5,1,2,Increased,NO,Sleep,0
+21,0,3,Laptop/Desktop,2,0,10,5,1,3,Increased,NO,Listening to music,0
+16,4,1,Smartphone,2,1,9,2,1,2,Decreased,NO,Many among these,0
+20,6,1,Laptop/Desktop,6,0,6,3,0,4,Increased,NO,Reading books,0
+26,0,1,Smartphone,1,1,7,1,2,2,Decreased,NO,Online gaming,1
+12,1,4,Laptop/Desktop,3,2,8,2,1,4,Increased,NO,Reading,0
+21,2,3,Laptop/Desktop,2,1,10,2,0.25,3,Remain Constant,NO,Sleep,0
+19,3,1,Smartphone,0,0,12,5,0,3,Decreased,NO,Online gaming,1
+18,0,1,Smartphone,0,2,7,6,0,4,Increased,NO,Business,0
+21,5,1,Smartphone,2,1,12,2,1,4,Increased,NO,Listening to music,0
+26,1,4,Laptop/Desktop,4,0,6,6,4,3,Remain Constant,NO,Talking,0
+29,8,4,Laptop/Desktop,2,1,8,0.5,2,4,Remain Constant,NO,Web Series,0
+16,4,4,Smartphone,2,0.5,9,1,0.1,3,Increased,NO,Sleeping,0
+17,2,3,Laptop/Desktop,5,0,8,4,0,3,Remain Constant,NO,"listening music, motion design, graphic design, sleeping.",0
+21,5,1,Laptop/Desktop,3,2,10,6,1,3,Increased,YES,Online gaming,1
+19,1,3,Laptop/Desktop,3,2,7,1,2,2,Remain Constant,YES,Online gaming,1
+16,4,1,Smartphone,3,0,8,4,0,4,Remain Constant,NO,Dont get distreessed,0
+14,3,3,Tablet,6,3,7,3,1,2,Remain Constant,NO,"listening to music,reading books and dancing.",0
+24,3,1,Laptop/Desktop,4,0,6,3,4,3,Remain Constant,NO,Listening to music,0
+22,1,3,Smartphone,3,1,8,1,0,2,Decreased,YES,Cooking,0
+21,3,3,Laptop/Desktop,3,2,6.5,2,2,2,Increased,NO,Scrolling through social media,0
+18,0,NA,NA,1,1,12,4,0,3,Remain Constant,NO,Online gaming,1
+22,4,3,Laptop/Desktop,1,1,8,4,1,3,Increased,NO,Online surfing,0
+22,2,3,Laptop/Desktop,8,1,8,2,1,2,Remain Constant,NO,Listening to music,0
+23,5,3,Smartphone,5,1,8,1,2,3,Remain Constant,NO,gardening cartoon,0
+19,5,5,Smartphone,5,1,7,2,3,3,Increased,NO,Sleep,0
+21,0,1,NA,1,0,10,3,2,3,Remain Constant,NO,Watching web series,0
+20,3,3,Smartphone,2,0.5,8,3,0,3,Remain Constant,NO,Listening to music,0
+25,1,3,Laptop/Desktop,3,1,7,3,2,3,Increased,NO,Reading books,0
+17,8,1,Smartphone,2,1,9,0,0,3,Remain Constant,NO,Listening to music,0
+19,2,1,Laptop/Desktop,3,1,8,1,2,4,Remain Constant,NO,Watching web series,0
+21,0,1,Laptop/Desktop,6,0,6,4,2,3,Increased,NO,Meditation,0
+20,0,3,Laptop/Desktop,1,0,9,5,2,4,Remain Constant,YES,Listening to music,0
+17,9,3,Laptop/Desktop,5,1,6,1,0,3,Decreased,NO,Listening to music,0
+19,2,1,Laptop/Desktop,1,1,7,5,1,4,Remain Constant,NO,Talking to your relatives,0
+16,7,5,Tablet,2,1,6,2,0,3,Decreased,NO,Online surfing,0
+22,3,3,Smartphone,3,0,8,2,1,3,Increased,NO,Talking to your relatives,0
+20,1,1,Laptop/Desktop,3,1,9,4,0,2,Increased,NO,Scrolling through social media,0
+20,3,1,Laptop/Desktop,9,1,6,1,0,1,Increased,NO,Meditation,0
+20,5,5,Laptop/Desktop,1,1,8,3,0,3,Remain Constant,NO,Listening to music,0
+18,1,3,Smartphone,2,0,10,1,0.5,2,Remain Constant,NO,Reading books,0
+17,7,4,Smartphone,5,0.5,7,2,2,3,Increased,NO,Online gaming,1
+16,5,1,Smartphone,2,1,8,2,NA,3,Increased,NO,Online gaming,1
+19,3,3,Laptop/Desktop,6,0.5,8,0.6,1.5,4,Increased,NO,Reading books,0
+25,5,3,Laptop/Desktop,6,0,8,1,0,3,Remain Constant,NO,Listening to music,0
+17,6,4,Smartphone,4,0,7,1,2,3,Decreased,NO,Listening to music,0
+21,0,1,Laptop/Desktop,2,0,8,3,5,3,Decreased,NO,Watching web series,0
+17,7,3,Laptop/Desktop,2,0,6,2,2,2,Increased,NO,Sleep,0
+19,2,3,Smartphone,3,1,9,3,3,3,Increased,NO,Sleep,0
+20,2,4,Laptop/Desktop,1,0,10,1,0,2,Remain Constant,NO,Online gaming,1
+19,1,5,Laptop/Desktop,1,3,9,2,0,5,Remain Constant,NO,Listening to music,0
+19,1,1,Laptop/Desktop,3,0,8,3,3,3,Increased,YES,Listening to music,0
+19,0,1,Laptop/Desktop,8,1,8,2,0,2,Increased,YES,Cooking,0
+16,4,2,Smartphone or Laptop/Desktop,2.5,0.5,6,0.5,1,3,Remain Constant,NO,"watching movies,reading books,games,listening to music,sleep,dancing",0
+20,3,1,Smartphone,5,1,7,1,0,3,Increased,NO,Sleep,0
+21,4,3,Laptop/Desktop,2,1,8,3,NA,2,Remain Constant,NO,Online gaming,1
+20,0,4,Smartphone,0,0,7.5,3.5,2,3,Remain Constant,NO,Indoor Games,0
+21,0,3,Laptop/Desktop,12,0,7,3,0,3,Remain Constant,NO,Reading books,0
+17,5.5,4,Smartphone,5,1,9,1,1,3,Remain Constant,NO,Listening to music,0
+21,2,2,Laptop/Desktop,2,1,5,3,1,3,Remain Constant,NO,Reading books,0
+16,6,4,Laptop/Desktop,3,0,7,1,1,3,Remain Constant,NO,Listening to music,0
+20,4,4,Laptop/Desktop,5,1,6,2,0.5,2,Remain Constant,NO,Listening to music,0
+20,4,1,Laptop/Desktop,2,1,8,4,0,4,Increased,NO,Listening to music,0
+21,3,4,Laptop/Desktop,3,1,6,0.5,0.5,2,Increased,YES,Listening to music,0
+19,0,1,Laptop/Desktop,1,0,8,4,2,3,Increased,NO,Watching web series,0
+20,1,1,Smartphone,0,0,10,5,1,2,Increased,YES,Sleep,0
+15,5,3,Smartphone,1,0,7,1,1.5,3,Remain Constant,NO,Online gaming,1
+19,0,1,Laptop/Desktop,4,0.3,8,2,0,2,Remain Constant,NO,Talking to your relatives,0
+20,4,1,Laptop/Desktop,8,0,6,1,0,3,Decreased,NO,Listening to music,0
+13,5,1,Laptop/Desktop,4,1,8,10,0,3,Decreased,NO,Cooking,0
+18,0,1,Laptop/Desktop,3,0,8,4,1,3,Increased,NO,Watching web series,0
+19,3,4,Laptop/Desktop,2,0,8,5,1.5,3,Increased,NO,Web Series,0
+14,4,3,Smartphone,4,0,8,2,2,3,Increased,NO,Listening to music,0
+20,4,4,Laptop/Desktop,5,1,7,0.1,0,4,Remain Constant,NO,Reading,0
+18,0,NA,NA,8,0.5,5,3,1,3,Remain Constant,NO,Dancing,0
+21,5,3,Smartphone,2,2,6,5,0,3,Increased,NO,Scrolling through social media,0
+16,4,2,Laptop/Desktop,0,0,9,1,1,2,Remain Constant,NO,Listening to music,0
+21,3,1,Laptop/Desktop,2,0,7,2,2,3,Remain Constant,NO,Online gaming,1
+17,5,3,Smartphone,4,2,7,2,2,2,Increased,NO,Online gaming,1
+20,6,3,Any Gadget,2,0,6,4,0,3,Increased,NO,Listening to music,0
+17,4,4,Smartphone,2,0,7,3,2,4,Increased,NO,Social Media,0
+20,1,1,Tablet,2,2,8,1,0,2,Decreased,NO,Reading books,0
+17,6,3,Smartphone,2,1,9,3,0.5,3,Remain Constant,NO,Sleep,0
+16,7,3,Smartphone,3,2,11,1.5,1,3,Decreased,YES,Online gaming,1
+19,0,NA,NA,2,1,8,4,0,3,Remain Constant,NO,Online gaming,1
+14,3,4,Laptop/Desktop,2,0,8,1,1,1,Increased,NO,Cooking,0
+19,1,3,Laptop/Desktop,1,0,8,1,2,4,Remain Constant,NO,Whatever want,0
+30,3,3,Smartphone,1,0.5,4,1,0.5,2,Remain Constant,NO,Meditation,0
+20,5,1,Laptop/Desktop,12,0,7,1,0,3,Increased,NO,Reading books,0
+18,2,1,Smartphone,2,2,9,4,0,3,Increased,NO,Online gaming,1
+22,5,4,Laptop/Desktop,10,1,6,1,0,3,Remain Constant,YES,Online gaming,1
+17,5,3,Laptop/Desktop,1.5,2,8,1,3,3,Decreased,NO,Cooking,0
+17,6,1,Any Gadget,4,2.5,8,0.5,0,3,Remain Constant,NO,Reading books,0
+22,4,3,Laptop/Desktop,3,2,8,2,0.5,4,Increased,NO,Sleep,0
+21,0,NA,NA,10,1,5,0.5,0,4,Remain Constant,NO,Cooking,0
+17,6,3,Smartphone,12,1,8,2,3,4,Remain Constant,NO,Sleep,0
+32,4,4,Laptop/Desktop,5,2,5,3,0,3,Remain Constant,NO,Reading,0
+23,1,1,Laptop/Desktop,1,0,8,5,0,4,Increased,NO,Talking to your relatives,0
+19,2,1,Smartphone,5,1,9,2,0,4,Remain Constant,NO,Listening to music,0
+19,2,1,Smartphone,2,1,8,2,1,3,Decreased,YES,Scrolling through social media,0
+22,1.5,3,Laptop/Desktop,0,0,9,6,2,3,Increased,NO,Scrolling through social media,0
+22,0,1,Laptop/Desktop,3,0,10,8,0,2,Increased,YES,Watching web series,0
+23,1,1,Smartphone,8,2,8,2,2,3,Decreased,NO,Online gaming,1
+17,9,2,Laptop/Desktop,3,0,5,0.5,1,3,Remain Constant,NO,Listening to music,0
+22,4,3,Laptop/Desktop,3,1,8,3,0,4,Increased,NO,Online gaming,1
+20,0,1,Laptop/Desktop,2,0,10,3,2,4,Increased,NO,Sleep,0
+19,0.5,1,Smartphone,5,0.5,10,1,1,2,Remain Constant,YES,Meditation,0
+16,8,4,Laptop/Desktop,7,0,6,1,0.5,3,Remain Constant,NO,Social Media,0
+20,4,1,Smartphone,2,0,7,0.5,0.5,3,Increased,NO,Sleep,0
+17,6,3,Tablet,2,1,7,1,1,4,Remain Constant,NO,Reading books,0
+20,3,4,Laptop/Desktop,4,0,7,4,0,2,Remain Constant,YES,Social Media,0
+17,6,3,Laptop/Desktop,5,0.5,7,1,1,2,Remain Constant,NO,Listening to music,0
+17,6,1,Smartphone,1.5,2,7,2,0.5,4,Increased,NO,Workout,0
+20,3,3,Laptop/Desktop,4,1,7,2,2,3,Remain Constant,NO,Talking to your relatives,0
+16,6,1,Smartphone,5,0,7,2,0,3,Increased,NO,Online surfing,0
+17,7,4,Smartphone,4,0,7,1,1,2,Increased,NO,Listening to music,0
+59,3,3,Smartphone,6,1,9,0.5,1,2,Increased,NO,Sleep,0
+17,6,3,Laptop/Desktop,1,0,7,2,0,2,Remain Constant,NO,Online gaming,1
+16,7,3,Tablet,4,1,7,1,0,3,Remain Constant,NO,Reading books,0
+20,5,4,Smartphone,2.5,1,9,3,0.5,2,Remain Constant,NO,Dancing,0
+21,0,1,Laptop/Desktop,0,2,12,6,0,4,Increased,NO,Watching web series,0
+24,7,1,Laptop/Desktop,7,2,7,2,0,3,Remain Constant,NO,Reading books,0
+20,3,4,Laptop/Desktop,4,0,8,2,0,3,Remain Constant,NO,Cooking,0
+26,5,3,Laptop/Desktop,10,1,8,1,0.5,2,Remain Constant,NO,Meditation,0
+19,0.5,1,Smartphone,3,1,8,1,0,2,Remain Constant,NO,Sleep,0
+25,2,1,Laptop/Desktop,3,1,8,4,1,2,Increased,NO,Watching web series,0
+20,3,1,Laptop/Desktop,5,0,7.5,2,0.5,4,Increased,NO,Sleep,0
+20,3,3,Laptop/Desktop,3,1,7,1,0,3,Remain Constant,NO,Listening to music,0
+21,4,4,Laptop/Desktop,4,1,7,2,2,3,Remain Constant,NO,Talking,0
+34,1.5,2,Laptop/Desktop,1,0,6,1,0,2,Remain Constant,YES,Online surfing,0
+22,3,1,Laptop/Desktop,0,5,8,10,0,3,Remain Constant,NO,Talking to your relatives,0
+34,3,3,Laptop/Desktop,3,1,8,1,1,3,Remain Constant,NO,Talking to your relatives,0
+21,3,1,Smartphone,8,3,7,3,0,3,Decreased,YES,Talking to your relatives,0
+21,3,4,Laptop/Desktop,3,0.5,8,4,0,3,Remain Constant,NO,Web Series,0
+15,5,3,Smartphone,5,0,7,3,2,3,Remain Constant,NO,Watching web series,0
+21,1,3,Smartphone,0,1,6,2,0,2,Decreased,NO,Online gaming,1
+19,2,2,Smartphone,10,0.25,8,2,0,3,Increased,NO,Talking to your relatives,0
+22,2,3,Laptop/Desktop,5,0,8,3,1,3,Increased,NO,Listening to music,0
+22,1,3,Smartphone,4,0.5,11,1,0,3,Remain Constant,YES,Listening to music,0
+14,4,1,Smartphone,1,0,9,1.5,5,3,Remain Constant,NO,Reading books,0
+20,3,1,Laptop/Desktop,1.5,1,6,2,1.5,2,Decreased,YES,Watching web series,0
+22,1,1,Smartphone,7,0,7,1,0,3,Remain Constant,NO,Talking to your relatives,0
+19,2,1,Smartphone,2,1,8,2,2,3,Increased,YES,Listening to music,0
+21,3,3,Smartphone,0.5,3,6,2,0,3,Remain Constant,NO,Online gaming,1
+20,1,1,Smartphone,2,1,8,3,0,3,Remain Constant,NO,Watching web series,0
+21,1,3,Laptop/Desktop,1,2,7,2,1,4,Increased,NO,Listening to music,0
+22,6,4,Laptop/Desktop,2,1,8,4,0,4,Remain Constant,NO,Online gaming,1
+22,0,3,Laptop/Desktop,3,1,9,0,2,5,Decreased,NO,Watching web series,0
+34,3,4,Laptop/Desktop,3,1,7,1,2,3,Remain Constant,NO,Sleeping,0
+21,0,4,Smartphone,4,1,8,2,0,2,Decreased,YES,Online gaming,1
+20,5,3,Laptop/Desktop,4,0,10,2,4,3,Decreased,NO,Sleep,0
+22,1,3,Smartphone,3,1,7,1,0,3,Remain Constant,NO,Sleep,0
+16,4,5,Laptop/Desktop,3,2,10,1,1,3,Increased,NO,Online gaming,1
+20,0,1,Smartphone,1,0,8,0.5,1,3,Decreased,YES,Reading books,0
+20,0,1,Smartphone,3,2,8,2,1,3,Remain Constant,YES,Listening to music,0
+15,4,3,Smartphone,2,3,7,1,2,4,Increased,NO,Online gaming,1
+20,0,1,Smartphone,3,2,12,1,0,3,Increased,NO,Scrolling through social media,0
+21,0,1,Smartphone,1,0,7,10,0,7,Increased,NO,Listening to music,0
+22,4,4,Smartphone,4,0.5,8,2,0,3,Increased,NO,Sleeping,0
+23,3,4,Tablet,0,0,12,4,0,2,Increased,NO,Cooking,0
+22,1,1,Smartphone,4,1,7,2,0,2,Increased,YES,Watching web series,0
+21,4,1,Smartphone,3,1,8,1,1,3,Remain Constant,YES,Online surfing,0
+23,0,1,Laptop/Desktop,1,0,10,4,0,4,Increased,NO,Online gaming,1
+20,6,1,Smartphone,3,0,8,4,2,3,Increased,YES,Sleep,0
+20,4,3,Laptop/Desktop,2,0,7,2,4,3,Increased,NO,Online gaming,1
+21,3,1,Smartphone,2,0,7,2,0,3,Increased,YES,Reading books,0
+21,4,5,Laptop/Desktop,6,2,6,1,1,3,Remain Constant,NO,Cooking,0
+21,5,3,Smartphone,1,0,5,1,0,2,Decreased,NO,Online gaming,1
+20,3,1,Laptop/Desktop,1,0,6,2,0,2,Increased,NO,pubg,0
+19,0.5,1,Smartphone,7,2,7,0.1,0,4,Remain Constant,YES,Listening to music,0
+21,1,1,Smartphone,3,0,6,1,1,1,Decreased,YES,Reading books,0
+20,5,1,Tablet,3,1,8,2,3,4,Increased,NO,Listening to music,0
+15,4,3,Smartphone,7,2,6,1,1,4,Remain Constant,NO,Listening to music,0
+21,4,1,Smartphone,4,1,8,2,0,3,Increased,NO,Sleep,0
+18,2,1,Smartphone,2,1,10,2,0,3,Remain Constant,NO,Listening to music,0
+19,1,3,Laptop/Desktop,1,1,10,1,0,3,Remain Constant,NO,Listening to music,0
+19,6,1,Smartphone,3,0,7,2,0.5,2,Increased,YES,Online gaming,1
+20,3,3,Laptop/Desktop,2,1,8,2,2,3,Remain Constant,NO,Listening to music,0
+20,6,3,Laptop/Desktop,1,1,6,1,0,3,Increased,YES,Talking to your relatives,0
+14,4,3,Smartphone,2,1,8,2,1,3,Remain Constant,NO,Listening to music,0
+19,2,1,Smartphone,2,2,8,2,3,2,Increased,NO,Watching web series,0
+18,2,2,Smartphone,6,1,7,1,1,2,Increased,NO,Listening to music,0
+20,1,1,Smartphone,1,0,6,0,0,2,Increased,NO,Sleep,0
+20,3,1,Smartphone,3,0,9,2,2,2,Decreased,NO,Meditation,0
+20,3,1,Smartphone,5,0,7,2,1,2,Remain Constant,YES,Watching web series,0
+19,3,1,Laptop/Desktop,2,1,9,1,0,3,Decreased,NO,Online gaming,1
+22,1,1,Laptop/Desktop,10,1,7,1,0,3,Remain Constant,NO,Writing,0
+15,4,3,Smartphone,2,0.5,6,1,1,3,Remain Constant,NO,Dancing,0
+18,3,1,Smartphone,5,1,7,2,0,3,Remain Constant,NO,Online gaming,1
+22,0.1,2,Smartphone,2.5,1,12,0.3,0,5,Increased,NO,Online gaming,1
+18,5,3,Smartphone,1,1,8,1,0,4,Increased,NO,Sleep,0
+20,2,1,Smartphone,4,0,10,4,2,3,Decreased,NO,Cooking,0
+18,2,1,Smartphone,2,1,9,2,2,2,Increased,NO,Watching web series,0
+17,6,3,Laptop/Desktop,4,1,8,1,1,2,Remain Constant,NO,Listening to music,0
+20,3,1,Smartphone,3,0,9,2,2,2,Decreased,NO,Meditation,0
+19,0,NA,NA,1,3,8,5,1,1,Decreased,NO,Listening to music,0
+15,1,4,Smartphone,3,1,6,4,1.5,4,Increased,NO,Listening to music,0
+19,2,1,Smartphone,4,1,8,2,0,4,Decreased,NO,Sketching and writing,0
+20,2,3,Smartphone,3,0.5,6.5,1,0.5,3,Remain Constant,NO,Listening to music,0
+20,5,3,Smartphone,4,1,7,2,1,3,Increased,NO,Meditation,0
+19,1,1,Smartphone,2,0,7,1,0,2,Increased,YES,Sleep,0
+18,5,1,Smartphone,3,0,9,7,0,3,Increased,NO,Watching web series,0
+21,4,3,Smartphone,4,1,8,1,0,3,Remain Constant,NO,Meditation,0
+23,6,3,Laptop/Desktop,5,1,6,1,0,3,Remain Constant,NO,Meditation,0
+18,2.5,3,Smartphone,2,1,8,1,0,4,Remain Constant,NO,Listening to music,0
+19,2,3,Smartphone,6,1,6,1,0,3,Increased,NO,Watching web series,0
+21,4,4,Laptop/Desktop,2,2,7,2,1,3,Increased,NO,Dancing,0
+14,3,4,Smartphone,5,1,12,0.3,1,3,Remain Constant,NO,Sleeping,0
+24,4,5,Laptop/Desktop,8,1,8,2,2,3,Increased,NO,Online surfing,0
+18,3,1,Smartphone,6,0,7,3,1,3,Remain Constant,NO,Reading books,0
+18,2,1,Smartphone,3,1,10,2,0,3,Remain Constant,NO,Online gaming,1
+14,5,3,Laptop/Desktop,4,1,7,4,1,5,Increased,NO,Scrolling through social media,0
+19,1,1,Smartphone,4,1,8,1,0,4,Remain Constant,NO,Sleep,0
+21,3,3,Smartphone,3,0,11,2,NA,2,Increased,YES,Sleep,0
+20,0,1,Smartphone,2,2,8,0.15,0.3,2,Decreased,NO,Talking to your relatives,0
+10,3,4,Tablet,3,0,10,1,4,3,Remain Constant,NO,Online gaming,1
+18,2,1,Smartphone,3,1,8,1,1,3,Decreased,NO,Listening to music,0
+20,1,1,Smartphone,2,1,8,1,0,3,Increased,NO,Listening to music,0
+19,2,1,Smartphone,1.5,1,7,2,NA,2,Remain Constant,NO,Listening to music,0
+23,4,5,Laptop/Desktop,6,1,8,0.3,0,3,Increased,NO,Talking to your relatives,0
+21,2,1,Smartphone,7,2,8,0.5,0,5,Increased,NO,Reading books,0
+16,3,1,Smartphone,3,1,7,3,1,2,Remain Constant,NO,Listening to music,0
+21,4,1,Smartphone,4,1,7,1,0,4,Decreased,YES,Listening to music,0
+21,3,3,Laptop/Desktop,5,0,8,7,1,2,Remain Constant,NO,Watching web series,0
+16,6,2,Smartphone,2,2,7,2,1,3,Remain Constant,NO,Scrolling through social media,0
+21,1,1,Smartphone,2,1,8,1,0,3,Increased,NO,Listening to music,0
+21,1,4,Smartphone,3,2,10,1,2,4,Increased,YES,Meditation,0
+22,2,3,Smartphone,0,0,12,4,2,3,Increased,NO,Online gaming,1
+19,3,3,Smartphone,1,0,10,4,0,3,Remain Constant,NO,Listening to music,0
+19,5,4,Tablet,3,1,8,2,0,2,Remain Constant,NO,Reading,0
+20,2,3,Smartphone,3,1,5,4,1,3,Increased,NO,Listening to music,0
+20,4,4,Smartphone,2,2,8,6,0,3,Decreased,NO,Sleeping,0
+19,4,1,Laptop/Desktop,0,0,8,2,1.5,3,Increased,YES,Anime Manga,0
+19,0,1,Smartphone,4,1,8,1,0,3,Increased,NO,Listening to music,0
+25,4,1,Smartphone,3,1,7,1,0,3,Remain Constant,YES,Cricket,0
+19,4,3,Smartphone,3,1,7,3,2,3,Increased,NO,Listening to music,0
+18,3,1,Smartphone,4,1,7,1,0,4,Remain Constant,YES,Listening to music,0
+21,4,1,Smartphone,3,1,8,1,0,3,Decreased,NO,Meditation,0
+20,5,3,Smartphone,3,1,7,1.5,0,3,Increased,YES,drawing,0
+19,2,1,Tablet,2,1,8,5,0,4,Decreased,NO,Scrolling through social media,0
+21,1,2,Smartphone,8,0,10,1,0,3,Decreased,NO,Sleep,0
+20,0,1,Laptop/Desktop,1,1,12,2,2,2,Increased,NO,Online gaming,1
+19,2,1,Smartphone,2,0.5,9,3,1,2,Increased,NO,Online gaming,1
+21,3,4,Smartphone,2,1,10,1,0,3,Remain Constant,NO,Online gaming,1
+21,5,3,Laptop/Desktop,5,0,8,7,1,2,Increased,YES,Scrolling through social media,0
+19,1,4,Laptop/Desktop,4,0,8,2,0,4,Increased,NO,Web Series,0
+20,3,5,Laptop/Desktop,0,1,8,5,1,3,Increased,NO,Online surfing,0
+20,3,3,Laptop/Desktop,3,0,10,10,4.5,3,Increased,NO,Scrolling through social media,0
+19,0,1,Smartphone,1,1,8,2,0,3,Decreased,NO,Listening to music,0
+19,3,3,Smartphone,5,0,5,4,0,2,Increased,YES,Listening to music,0
+18,3,1,Smartphone,2,2,8,8,0,4,Remain Constant,NO,Listening to music,0
+19,1,3,Laptop/Desktop,0.5,1,7,5,2,3,Remain Constant,NO,Many of these,0
+20,2,1,Smartphone,2,0,7,3,2,2,Remain Constant,NO,Reading books,0
+22,6,1,Smartphone,4,0,7,2,0,1,Increased,NO,Online gaming,1
+20,2,1,Smartphone,3,1,6,2,1,4,Increased,NO,Listening to music,0
+19,2,1,Tablet,2,1,8,5,0,4,Decreased,NO,Scrolling through social media,0
+20,1.5,1,Smartphone,3,2,9,1,1,2,Decreased,YES,Sleep,0
+18,3,3,Smartphone,1,1,8,3,0.5,4,Remain Constant,NO,Dancing,0
+19,0,NA,NA,0,2,6,4,0.5,3,Remain Constant,NO,Listening to music,0
+20,4,3,Smartphone,4,2,7,2,1,3,Increased,NO,Listening to music,0
+23,2,1,Smartphone,1,1,7,5,1,4,Decreased,NO,Listening to music,0
+20,2,1,Laptop/Desktop,0,1,8,2,0,3,Increased,NO,Watching web series,0
+18,0,1,Laptop/Desktop,2,1,6,5,0,1,Remain Constant,NO,Crying,0
+20,3,1,Laptop/Desktop,6,1,8,1,2,4,Increased,NO,Sleep,0
+22,6,1,Laptop/Desktop,6,0,6,1,0,2,Increased,NO,Watching web series,0
+21,0,1,Smartphone,5,0,8,1,1,3,Remain Constant,NO,Online gaming,1
+20,5,3,Laptop/Desktop,1,1,7,1,0,3,Increased,YES,Listening to music,0
+18,1,1,Smartphone,8,0,8,5,2,3,Increased,NO,Online surfing,0
+19,2,1,Smartphone,2,2,8,1,0,4,Increased,NO,Listening to music,0
+19,4,1,Smartphone,2,0,7,1,0,3,Increased,YES,Watching web series,0
+21,4,3,Smartphone,4,1,8,2,2,4,Remain Constant,NO,Sleep,0
+19,0,3,Smartphone,2,2,10,1,0.5,4,Remain Constant,NO,Reading books,0
+21,3,3,Laptop/Desktop,17,0,5,1,0,3,Increased,NO,Online gaming,1
+20,5,3,Laptop/Desktop,6,1,7,2,0,3,Remain Constant,NO,Reading books,0
+19,0,1,Smartphone,1,0,8,2,2,3,Remain Constant,YES,Online gaming,1
+18,4,4,Laptop/Desktop,2,0,8,4,0,3,Remain Constant,NO,Social Media,0
+21,3,1,Laptop/Desktop,4,2,8,2,0,4,Increased,NO,Listening to music,0
+20,2,1,Smartphone,3,0,6,2,0,3,Decreased,YES,Reading books,0
+20,2,1,Smartphone,6,2,7,1,3,6,Decreased,NO,Listening to music,0
+22,3,1,Laptop/Desktop,2,0,8,1,0,4,Increased,NO,Cooking,0
+18,2,3,Smartphone,2,3,12,1,0,4,Remain Constant,NO,Sleep,0
+21,5,1,Laptop/Desktop,3,1,8,1,0,2,Increased,NO,Listening to music,0
+20,7,1,Smartphone,2,1,8,2,2,4,Remain Constant,YES,Listening to music,0
+21,0,1,Laptop/Desktop,0,0,10,8,1,4,Remain Constant,NO,Watching web series,0
+24,4,4,Laptop/Desktop,4,2,6,4,0,4,Increased,NO,Social Media,0
+20,0,NA,NA,8,0,8,0,0,3,Increased,NO,Reading books,0
+22,1,1,Smartphone,2,0.5,8,2,2,3,Increased,NO,Listening to music,0
+20,4,3,Laptop/Desktop,2,0,8,2,0,3,Increased,NO,Sleep,0
+17,4,1,Laptop/Desktop,1,1,7,1.5,0,3,Decreased,NO,Reading books,0
+21,6,3,Smartphone,2,1,8,3,1,3,Remain Constant,NO,Cooking,0
+20,0,NA,NA,6,1,6,5,0,4,Increased,NO,Talking to your relatives,0
+22,5,1,Laptop/Desktop,1,0,6,2,0.5,3,Decreased,YES,Watching web series,0
+21,0,1,NA,5,2,4,2,0,3,Remain Constant,NO,Watching orgasm releasing videos,0
+23,4,5,Laptop/Desktop,18,1,8,2,0,2,Decreased,NO,Reading books,0
+19,4,1,Smartphone,5,1,7,2,1,2,Decreased,YES,Listening to music,0
+22,4,1,Smartphone,6,1,5,3,0,4,Remain Constant,NO,"sketching,reading books,meditation,songs",0
+31,8,3,Laptop/Desktop,4,1,6,2,0.5,3,Remain Constant,NO,Listening to music,0
+20,3,1,Laptop/Desktop,6,0,9,2,0,2,Remain Constant,NO,Listening to music,0
+21,4,1,Laptop/Desktop,5,0,8,3,0,2,Increased,YES,Listening to music,0
+20,5,1,Smartphone,2,0,9,5,3,2,Increased,NO,Talking to your relatives,0
+20,3,1,Smartphone,4,2,9,2,1,3,Decreased,NO,Reading books,0
+21,4,3,Laptop/Desktop,2,1,7,1,0,3,Decreased,NO,Dancing,0
+21,4,1,Smartphone,1,0,8,6,1,4,Decreased,NO,Watching web series,0
+21,5,3,Laptop/Desktop,2,1,10,5,2,3,Remain Constant,NO,Talking with friends,0
+20,4,5,Laptop/Desktop,5,0,6,2,1,2,Decreased,NO,Listening to music,0
+22,5,1,Smartphone,2,1,8,4,0,3,Increased,NO,Dancing,0
+21,0,1,Laptop/Desktop,4,0,7,7,NA,2,Remain Constant,NO,Reading books,0
+20,1,1,Smartphone,2,1,8,1,0,3,Remain Constant,NO,Listening to music,0
+20,0,4,Smartphone,0,0,8,2,1,3,Increased,NO,Online gaming,1
+22,3,3,Smartphone,3,1,6,2,1,3,Increased,NO,Online gaming,1
+20,5,1,Laptop/Desktop,1,0,8,3,0,3,Remain Constant,NO,Scrolling through social media,0
+22,1,4,Laptop/Desktop,2,0,7,0,0.5,2,Increased,NO,Reading,0
+21,3,3,Laptop/Desktop,0,0,8,3,0,3,Increased,YES,Listening to music,0
+21,1,1,Laptop/Desktop,0,1,7,3,1,2,Increased,YES,Watching web series,0
+21,3,4,Laptop/Desktop,3,1,8,3,1,4,Remain Constant,NO,Social Media,0
+20,0,1,Laptop/Desktop,1,0.5,8,5,3,3,Decreased,YES,live stream watching,0
+21,3,1,Laptop/Desktop,4,1,8,2,1,3,Increased,NO,Online surfing,0
+19,2,1,Tablet,1,1,10,5,0,3,Increased,YES,Scrolling through social media,0
+19,2,1,Smartphone,2,1,5,4,0,3,Increased,NO,Watching web series,0
+21,0,1,Smartphone,6,0,5,1,0,1,Decreased,YES,Coding and studying for exams,0
+21,3,4,Laptop/Desktop,3,1,8,3,1,4,Remain Constant,NO,Social Media,0
+20,3,1,Smartphone,2,1,6,5,0,3,Decreased,NO,Watching web series,0
+20,7,1,Laptop/Desktop,3,0,6,2,0,3,Remain Constant,NO,Listening to music,0
+21,0,5,Smartphone,0,2,10,3,0,3,Decreased,NO,Scrolling through social media,0
+21,2,4,Laptop/Desktop,4,0,7,3,1,4,Increased,NO,Cooking,0
